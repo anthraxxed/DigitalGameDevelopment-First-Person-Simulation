@@ -71,3 +71,12 @@ Each member is responsible for updating their own task cards
 
 Pull requests will be used for major changes with peer review before merging
 
+👥 Team Contributions
+Joe Benavidez – Level design layout, player spawn system, jump pad mechanics
+
+Eaker Tyler – Virus AI logic and animations, elevator movement and interaction
+
+Troup Sean – UI elements, pickups and item integration, teleporters
+
+Dean Brandon – Sound design, bug testing, and final game polish
+
