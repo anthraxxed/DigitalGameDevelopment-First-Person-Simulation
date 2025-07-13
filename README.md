@@ -80,6 +80,8 @@ Eaker Tyler – Virus AI logic and animations, elevator movement and interaction
 https://github.com/Xeleonn
 
 Troup Sean – UI elements, pickups and item integration, teleporters
+https://github.com/Seantroup
 
 Dean Brandon – Sound design, bug testing, and final game polish
+https://github.com/BDean353
 
