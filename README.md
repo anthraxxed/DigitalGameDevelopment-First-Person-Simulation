@@ -1,16 +1,16 @@
-📌 Module Two Team Project Plan
+# 📌 Module Two Team Project Plan
 
-🕹️ Chosen Scenario
+## 🕹️ Chosen Scenario
 
 We’re building a First-Person Simulation game set in a futuristic facility. The player’s main objective is to track down and eliminate virus entities scattered throughout the environment.
 
-🎯 Core Game Features
+## 🎯 Core Game Features
 
 Player Spawn Point: This is the main starting location and respawn hub for the player. It serves as the base point for the mission.
 
 Three Virus Types: Each virus will have its own unique look, movement style, and behavior using basic AI.
 
-🛠️ Additional Features (Selected Tasks)
+## 🛠️ Additional Features (Selected Tasks)
 
 We chose the following four gameplay features to expand our level design and interaction:
 
@@ -22,11 +22,11 @@ Teleporters: Four total (two linked pairs) that instantly move the player betwee
 
 Pickups: A total of 9 scattered throughout the level, including at least 3 unique types like health, ammo, and armor.
 
-🧠 Game Concept
+## 🧠 Game Concept
 
 The player is dropped into a containment facility where a virus outbreak has occurred. Their mission is to locate and eliminate all virus threats. To do that, they’ll need to move through the facility using elevators, jump pads, and teleporters, all while picking up resources and dodging or fighting enemy AI. The world will have a clean sci-fi look with functional gameplay over flashy visuals. Navigation and enemy tracking will be key.
 
-🗓️ 7-Week Development Timeline
+## 🗓️ 7-Week Development Timeline
 
 Week	Milestone
 Week 1	Project setup, role assignment, GitHub repo created
@@ -37,7 +37,7 @@ Week 5	Complete virus AI, add elevators, jump pads, teleporters, and all pickups
 Week 6	Beta Build: All core features working, full level functional, first polish pass
 Week 7	Final testing, bug fixes, audio, polish, and postmortem report submitted
 
-✅ Alpha Goals
+## ✅ Alpha Goals
 
 Player can move and respawn
 
@@ -49,7 +49,7 @@ One unique pickup item
 
 Basic level layout blocked out
 
-✅ Beta Goals
+## ✅ Beta Goals
 
 All 3 virus enemies with full movement and behavior
 
@@ -63,7 +63,7 @@ Full playthrough from start to finish
 
 Placeholder sound and UI added
 
-📣 Team Communication
+## 📣 Team Communication
 
 Primary Tool: Discord (text and voice)
 
@@ -71,7 +71,7 @@ Check-ins: Sundays (weekly voice call), midweek text updates
 
 Daily Use: Ongoing discussions and quick blockers
 
-📋 Task Management
+## 📋 Task Management
 
 Using GitHub Projects board to track tasks
 
@@ -81,7 +81,7 @@ Each member is responsible for updating their own task cards
 
 Pull requests will be used for major changes with peer review before merging
 
-👥 Team Contributions
+## 👥 Team Contributions
 
 Joe Benavidez – Level design layout, player spawn system, jump pad mechanics
 https://github.com/anthraxxed
@@ -102,16 +102,16 @@ https://github.com/BDean353
 
 
 
-🧪 Module Three Project Log - Team Development: QA and Testing Plan
+# 🧪 Module Three Project Log - Team Development: QA and Testing Plan
 
-🧑‍🤝‍🧑 Team Communication & Collaboration
+## 🧑‍🤝‍🧑 Team Communication & Collaboration
 
 Primary Communication: We will continue using Discord for all testing coordination.
 
 Collaboration on QA Documents:
 We will maintain a shared QA & Testing document in Google Docs that is linked from the repository and updated weekly. Each member will contribute to this plan based on their feature responsibilities, and revisions will be approved in our weekly Sunday meeting.
 
-🗓️ Testing Schedule
+## 🗓️ Testing Schedule
 Play Test (Preproduction – Week 2 to 3)
 
 Test core systems like the player controller, camera, and basic spawn logic
@@ -136,26 +136,26 @@ Run regression tests to verify that bug fixes haven’t introduced new issues
 
 Finalize QA checklist and review polish-level items (e.g., sound, UI, bug consistency)
 
-✅ QA Checklist (Pass/Fail)
-
-Test Item	          Description	                                        Status
-Player Movement	    Walk, run, jump, and respawn function	              [ ] Pass / [ ] Fail
-Virus AI	          All types behave and move correctly	                [ ] Pass / [ ] Fail
-Elevator Logic	    All elevators work correctly	                      [ ] Pass / [ ] Fail
-Jump Pads	          All pads work as expected	                          [ ] Pass / [ ] Fail
-Teleporters	        Each pair links correctly	                          [ ] Pass / [ ] Fail
-Pickups	            All pickups are functional and give correct effect	[ ] Pass / [ ] Fail
-Spawn System	      Player respawns correctly after death	              [ ] Pass / [ ] Fail
-Navigation	        Player can reach all required areas	                [ ] Pass / [ ] Fail
-Audio Feedback	    Key systems have placeholder audio	                [ ] Pass / [ ] Fail
-UI Elements	        UI is readable and responsive	                      [ ] Pass / [ ] Fail
-Full Playthrough	  Game can be completed start to finish	              [ ] Pass / [ ] Fail
-
-🔄 Updating the QA Plan
+## ✅ QA Checklist (Pass/Fail)
+<pre>
+Test Item				Description						Status
+-  Player Movement			Walk, run, jump, and respawn function			[ ] Pass / [ ] Fail
+-  Virus AI				All types behave and move correctly			[ ] Pass / [ ] Fail
+-  Elevator Logic			All elevators work correctly				[ ] Pass / [ ] Fail
+-  Jump Pads				All pads work as expected				[ ] Pass / [ ] Fail
+-  Teleporters				Each pair links correctly				[ ] Pass / [ ] Fail
+-  Pickups				All pickups are functional and give correct effect	[ ] Pass / [ ] Fail
+-  Spawn System				Player respawns correctly after death			[ ] Pass / [ ] Fail
+-  Navigation				Player can reach all required areas			[ ] Pass / [ ] Fail
+-  Audio Feedback			Key systems have placeholder audio			[ ] Pass / [ ] Fail
+-  UI Elements				UI is readable and responsive				[ ] Pass / [ ] Fail
+-  Full Playthrough			Game can be completed start to finish			[ ] Pass / [ ] Fail
+</pre>
+## 🔄 Updating the QA Plan
 
 The QA checklist and plan will be reviewed and updated every Sunday. Any feature changes or new mechanics will trigger updates to the test document and checklist. All changes are documented in a "QA Change Log" at the bottom of the shared document.
 
-🐛 Bug Reporting Process
+## 🐛 Bug Reporting Process
 
 All bugs will be reported through GitHub Issues with the following format:
 
@@ -171,7 +171,7 @@ Screenshot/Video: If applicable
 
 Each bug will be labeled with its relevant system (e.g., [Virus AI], [Teleporters], [UI]).
 
-📈 Bug Tracking & Resolution
+## 📈 Bug Tracking & Resolution
 
 Bugs will be tracked using GitHub Projects under a dedicated “Bugs” column.
 
