@@ -95,3 +95,92 @@ https://github.com/Seantroup
 Dean Brandon – Sound design, bug testing, and final game polish
 https://github.com/BDean353
 
+
+
+
+
+
+
+
+🧪 Module Three Project Log - Team Development: QA and Testing Plan
+
+🧑‍🤝‍🧑 Team Communication & Collaboration
+
+Primary Communication: We will continue using Discord for all testing coordination.
+
+Collaboration on QA Documents:
+We will maintain a shared QA & Testing document in Google Docs that is linked from the repository and updated weekly. Each member will contribute to this plan based on their feature responsibilities, and revisions will be approved in our weekly Sunday meeting.
+
+🗓️ Testing Schedule
+Play Test (Preproduction – Week 2 to 3)
+
+Test core systems like the player controller, camera, and basic spawn logic
+
+Identify bugs early before integrating more mechanics
+
+Begin drafting test cases and checklist items
+
+Demo Testing (Pre-Beta – Week 5)
+
+Test the integration of virus AI, elevators, teleporters, jump pads, and pickups
+
+Ensure all interactive systems work independently and together
+
+Review player navigation and progression logic
+
+Code Release QA (Final Week – Week 7)
+
+Conduct full playthrough testing across all systems
+
+Run regression tests to verify that bug fixes haven’t introduced new issues
+
+Finalize QA checklist and review polish-level items (e.g., sound, UI, bug consistency)
+
+✅ QA Checklist (Pass/Fail)
+
+Test Item	          Description	                                        Status
+Player Movement	    Walk, run, jump, and respawn function	              [ ] Pass / [ ] Fail
+Virus AI	          All types behave and move correctly	                [ ] Pass / [ ] Fail
+Elevator Logic	    All elevators work correctly	                      [ ] Pass / [ ] Fail
+Jump Pads	          All pads work as expected	                          [ ] Pass / [ ] Fail
+Teleporters	        Each pair links correctly	                          [ ] Pass / [ ] Fail
+Pickups	            All pickups are functional and give correct effect	[ ] Pass / [ ] Fail
+Spawn System	      Player respawns correctly after death	              [ ] Pass / [ ] Fail
+Navigation	        Player can reach all required areas	                [ ] Pass / [ ] Fail
+Audio Feedback	    Key systems have placeholder audio	                [ ] Pass / [ ] Fail
+UI Elements	        UI is readable and responsive	                      [ ] Pass / [ ] Fail
+Full Playthrough	  Game can be completed start to finish	              [ ] Pass / [ ] Fail
+
+🔄 Updating the QA Plan
+
+The QA checklist and plan will be reviewed and updated every Sunday. Any feature changes or new mechanics will trigger updates to the test document and checklist. All changes are documented in a "QA Change Log" at the bottom of the shared document.
+
+🐛 Bug Reporting Process
+
+All bugs will be reported through GitHub Issues with the following format:
+
+Title: Short, descriptive title
+
+Description: What the bug is, expected vs actual behavior
+
+Steps to Reproduce: Clear steps to recreate the bug
+
+Severity: Minor / Moderate / Critical
+
+Screenshot/Video: If applicable
+
+Each bug will be labeled with its relevant system (e.g., [Virus AI], [Teleporters], [UI]).
+
+📈 Bug Tracking & Resolution
+
+Bugs will be tracked using GitHub Projects under a dedicated “Bugs” column.
+
+Bug Lifecycle:
+
+Reported (To Do) – Bug identified and added as a GitHub Issue
+
+Acknowledged (In Progress) – Assigned to a team member for investigation
+
+Resolved (Done) – Fixed, confirmed in testing, and marked as complete
+
+A running changelog will document all resolved bugs and who resolved them.
