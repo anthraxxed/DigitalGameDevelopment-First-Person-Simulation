@@ -83,16 +83,16 @@ Pull requests will be used for major changes with peer review before merging
 
 ## 👥 Team Contributions
 
-Joe Benavidez – Level design layout, player spawn system, jump pad mechanics
+Joe Benavidez – Level design layout, player spawn system, jump pad mechanics Week 2
 https://github.com/anthraxxed
 
-Eaker Tyler – Virus AI logic and animations, elevator movement and interaction
+Eaker Tyler – Virus AI logic and animations, elevator movement and interaction Week 3
 https://github.com/Xeleonn
 
-Troup Sean – UI elements, pickups and item integration, teleporters
+Troup Sean – UI elements, pickups and item integration, teleporters Week 4
 https://github.com/Seantroup
 
-Dean Brandon – Sound design, bug testing, and final game polish
+Dean Brandon – Sound design, bug testing, and final game polish Week 5
 https://github.com/BDean353
 
 
