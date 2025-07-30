@@ -39,11 +39,11 @@ Week 7	Final testing, bug fixes, audio, polish, and postmortem report submitted
 
 ## ✅ Alpha Goals
 
-Player can move and respawn
+Player can move and respawn - Completed ✅ // Can add controller support
 
 One virus enemy functioning with basic AI
 
-One working elevator
+One working elevator - Completed ✅ // Can be updated as needed
 
 One unique pickup item
 
