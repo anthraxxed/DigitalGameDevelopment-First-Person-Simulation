@@ -89,7 +89,7 @@ https://github.com/anthraxxed
 Eaker Tyler – Virus AI logic and animations, elevator movement and interaction Week 3
 https://github.com/Xeleonn
 
-Troup Sean – UI elements, pickups and item integration, teleporters Week 4
+ UI elements, pickups and item integration, teleporters Week 4
 https://github.com/Seantroup
 
 Dean Brandon – Sound design, bug testing, and final game polish Week 5
