@@ -39,11 +39,11 @@ Week 7	Final testing, bug fixes, audio, polish, and postmortem report submitted
 
 ## ✅ Alpha Goals
 
-Player can move and respawn
+Player can move and respawn - Completed ✅ // Can add controller support
 
 One virus enemy functioning with basic AI
 
-One working elevator
+One working elevator - Completed ✅ // Can be updated as needed
 
 One unique pickup item
 
@@ -89,7 +89,7 @@ https://github.com/anthraxxed
 Eaker Tyler – Virus AI logic and animations, elevator movement and interaction Week 3
 https://github.com/Xeleonn
 
-Troup Sean – UI elements, pickups and item integration, teleporters Week 4
+ UI elements, pickups and item integration, teleporters Week 4
 https://github.com/Seantroup
 
 Dean Brandon – Sound design, bug testing, and final game polish Week 5
