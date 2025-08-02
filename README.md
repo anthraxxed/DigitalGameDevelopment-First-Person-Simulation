@@ -41,7 +41,7 @@ Week 7	Final testing, bug fixes, audio, polish, and postmortem report submitted
 
 Player can move and respawn - Completed ✅ // Can add controller support
 
-One virus enemy functioning with basic AI
+One virus enemy functioning with basic AI - Completed ✅
 
 One working elevator - Completed ✅ // Can be updated as needed
 
@@ -89,7 +89,7 @@ https://github.com/anthraxxed
 Eaker Tyler – Virus AI logic and animations, elevator movement and interaction Week 3
 https://github.com/Xeleonn
 
-Troup Sean – UI elements, pickups and item integration, teleporters Week 4
+ UI elements, pickups and item integration, teleporters Week 4
 https://github.com/Seantroup
 
 Dean Brandon – Sound design, bug testing, and final game polish Week 5
@@ -139,16 +139,16 @@ Finalize QA checklist and review polish-level items (e.g., sound, UI, bug consis
 ## ✅ QA Checklist (Pass/Fail)
 <pre>
 Test Item				Description						Status
--  Player Movement			Walk, run, jump, and respawn function			[ ] Pass / [ ] Fail
--  Virus AI				All types behave and move correctly			[ ] Pass / [ ] Fail
--  Elevator Logic			All elevators work correctly				[ ] Pass / [ ] Fail
+-  Player Movement			Walk, run, jump, and respawn function			[ ✅] Pass / [ ] Fail
+-  Virus AI				All types behave and move correctly			[ ✅] Pass / [ ] Fail
+-  Elevator Logic			All elevators work correctly				[ ✅] Pass / [ ] Fail
 -  Jump Pads				All pads work as expected				[ ] Pass / [ ] Fail
 -  Teleporters				Each pair links correctly				[ ] Pass / [ ] Fail
 -  Pickups				All pickups are functional and give correct effect	[ ] Pass / [ ] Fail
--  Spawn System				Player respawns correctly after death			[ ] Pass / [ ] Fail
+-  Spawn System				Player respawns correctly after death			[✅ ] Pass / [ ] Fail
 -  Navigation				Player can reach all required areas			[ ] Pass / [ ] Fail
 -  Audio Feedback			Key systems have placeholder audio			[ ] Pass / [ ] Fail
--  UI Elements				UI is readable and responsive				[ ] Pass / [ ] Fail
+-  UI Elements				UI is readable and responsive				[ ✅] Pass / [ ] Fail
 -  Full Playthrough			Game can be completed start to finish			[ ] Pass / [ ] Fail
 </pre>
 ## 🔄 Updating the QA Plan
