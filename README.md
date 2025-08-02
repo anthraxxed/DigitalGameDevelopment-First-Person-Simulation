@@ -41,7 +41,7 @@ Week 7	Final testing, bug fixes, audio, polish, and postmortem report submitted
 
 Player can move and respawn - Completed ✅ // Can add controller support
 
-One virus enemy functioning with basic AI
+One virus enemy functioning with basic AI - Completed ✅
 
 One working elevator - Completed ✅ // Can be updated as needed
 
