@@ -3279,3 +3279,20 @@ Sampler Limit: 32
 [2025.08.03-21.31.01:880][927]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
 [2025.08.03-21.31.01:888][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
 [2025.08.03-21.31.01:966][928]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.08.03-21.34.32:768][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.08.03-21.34.36:207][338]LogSlate: Window 'Save Content' being destroyed
+[2025.08.03-21.34.36:216][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-21.34.36:241][338]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/D2/WK3EKRQVCMBFKHNI25D17C
+[2025.08.03-21.34.36:242][338]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/WK3EKRQVCMBFKHNI25D17C9C4678394FD32F3F40F70BA300517ADE.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/D2/WK3EKRQVCMBFKHNI25D17C.uasset'
+[2025.08.03-21.34.36:246][338]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/DD/F2LD23UOZ3BXKBN1P0OPK8
+[2025.08.03-21.34.36:247][338]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/F2LD23UOZ3BXKBN1P0OPK8AC6BBEF24FAAF5659C0115B4991D9D7E.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/DD/F2LD23UOZ3BXKBN1P0OPK8.uasset'
+[2025.08.03-21.34.36:258][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.294 ms (total: 1.83 sec)
+[2025.08.03-21.34.36:284][338]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.03-21.34.36:284][338]LogContentValidation: Enabled validators:
+[2025.08.03-21.34.36:284][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-21.34.36:284][338]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-21.34.36:284][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-21.34.36:284][338]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-21.34.36:284][338]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-21.34.36:284][338]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-21.34.36:284][338]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
