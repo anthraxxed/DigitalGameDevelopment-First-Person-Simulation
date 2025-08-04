@@ -45,9 +45,9 @@ One virus enemy functioning with basic AI - Completed ✅
 
 One working elevator - Completed ✅ // Can be updated as needed
 
-One unique pickup item
+One unique pickup item - Completed ✅
 
-Basic level layout blocked out
+Basic level layout blocked out - Completed ✅
 
 ## ✅ Beta Goals
 
