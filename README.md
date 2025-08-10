@@ -188,7 +188,7 @@ A running changelog will document all resolved bugs and who resolved them.
 
 
 
-Module Six Project Log - Team Reflection 📈
+# Module Six Project Log - Team Reflection 📈
 
 As a team, we routinely conducted reviews based on our progression towards the plans we created. Below is our evaluation of the Module Three plan from an artist’s standpoint, followed by a team reflection.
 
