@@ -89,9 +89,6 @@ https://github.com/anthraxxed
 Eaker Tyler – Virus AI logic and animations, elevator movement and interaction Week 3
 https://github.com/Xeleonn
 
- UI elements, pickups and item integration, teleporters Week 4
-https://github.com/Seantroup
-
 Dean Brandon – Sound design, bug testing, and final game polish Week 5
 https://github.com/BDean353
 
@@ -191,4 +188,37 @@ A running changelog will document all resolved bugs and who resolved them.
 
 
 
-Module Six Project Log - Team Reflection 📈
+# Module Six Project Log - Team Reflection 📈
+
+As a team, we routinely conducted reviews based on our progression towards the plans we created. Below is our evaluation of the Module Three plan from an artist’s standpoint, followed by a team reflection.
+
+✅ What Went Well
+The shift to a Western setting blended well with the virus outbreak concept, creating a unique and memorable atmosphere.
+
+Virus designs stood out visually against the dusty, wooden Old West environment.
+
+Navigation elements like jump pads, teleporters and viruses were re-themed effectively without losing gameplay clarity.
+
+QA caught environment clutter issues early, helping maintain readability.
+
+⚠️ What Went Wrong
+Some Western-themed props and textures were delayed, which slowed down art integration.
+
+Visual consistency was a big issue throughout development.
+
+🔄 Integration of Previous Evaluations
+Player guidance improved with better lighting and visual landmarks.
+
+Virus silhouettes were adjusted for quicker recognition during gameplay.
+
+More asset tracking tasks were added to the GitHub board to improve visibility.
+
+💡 Improvements for Collaboration & Development
+Hold short midweek art-specific syncs to avoid bottlenecks and mainatain visual consistency.
+
+Ensure that assets match current environment by consulting with team members before implementation.
+
+🛠️ Tools & Techniques Not Helpful
+Adding smaller props and set-pieces to the world took up too much time and added little to the overall game.
+
+
