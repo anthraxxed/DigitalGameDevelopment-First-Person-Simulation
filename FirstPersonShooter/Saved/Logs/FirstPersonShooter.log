@@ -1862,3 +1862,1242 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.10-19.47.14:985][699]LogEOSSDK: Warning: LogHttp: 0000018EEC8E4E00: libcurl info message cache 41 (Closing connection)
 [2025.08.10-19.47.14:985][699]LogEOSSDK: Warning: LogHttp: 0000018EEC8E4E00: libcurl info message cache 42 (TLSv1.3 (OUT), TLS alert, close notify (256):)
 [2025.08.10-19.47.14:985][699]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B8B2ACFFB-4306-8A6C-72D8-54BF580F7239%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.08.10-19.50.13:987][235]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 959.589478
+[2025.08.10-19.50.14:987][238]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.10-19.50.14:987][238]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 960.256348, Update Interval: 301.345856
+[2025.08.10-19.52.45:030][791]LogStreaming: Display: FlushAsyncLoading(623): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.10-19.52.45:050][791]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/BP_Rifle.BP_Rifle
+[2025.08.10-19.52.45:050][791]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.08.10-19.52.45:401][791]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.08.10-19.52.45:467][792]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.08.10-19.54.05:923][940]LogSlate: Window 'BP_Rifle' being destroyed
+[2025.08.10-19.54.05:928][940]LogSlate: Window 'BP_Rifle' being destroyed
+[2025.08.10-19.54.05:933][940]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-19.54.05:933][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-19.54.06:006][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.08.10-19.54.41:843][729]LogStreaming: Display: FlushAsyncLoading(624): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.10-19.54.41:869][729]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.08.10-19.54.42:199][752]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Building_Objects/Elevator_BP.Elevator_BP_C
+[2025.08.10-19.54.42:199][752]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Building_Objects/Elevator_BP.Elevator_BP_C
+[2025.08.10-19.54.42:201][752]LogActorFactory: Actor Factory spawned Blueprint /Game/Building_Objects/Elevator_BP.Elevator_BP as actor: Elevator_BP_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.Elevator_BP_C_0
+[2025.08.10-19.54.42:202][752]LogActorFactory: Actor Factory spawned Blueprint /Game/Building_Objects/Elevator_BP.Elevator_BP as actor: Elevator_BP_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.Elevator_BP_C_0
+[2025.08.10-19.54.42:769][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.08.10-19.54.42:772][787]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.08.10-19.54.42:780][787]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Building_Objects/Elevator_BP.Elevator_BP_C
+[2025.08.10-19.54.42:780][787]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Building_Objects/Elevator_BP.Elevator_BP_C
+[2025.08.10-19.54.42:784][787]LogActorFactory: Actor Factory spawned Blueprint /Game/Building_Objects/Elevator_BP.Elevator_BP as actor: Elevator_BP_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.Elevator_BP_C_UAID_A85E4552D68BE68302_1301737323
+[2025.08.10-19.54.42:785][787]LogActorFactory: Actor Factory spawned Blueprint /Game/Building_Objects/Elevator_BP.Elevator_BP as actor: Elevator_BP_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.Elevator_BP_C_UAID_A85E4552D68BE68302_1301737323
+[2025.08.10-19.54.45:410][ 15]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.10-19.54.45:417][ 15]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.10-19.54.45:417][ 15]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.08.10-19.54.45:419][ 15]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 1.911 ms (total: 10.724 ms)
+[2025.08.10-19.54.45:419][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.10-19.54.45:419][ 15]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-19.54.45:434][ 15]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.10-19.54.45:436][ 15]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.034 ms (total: 10.617 ms)
+[2025.08.10-19.54.45:436][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016643s)
+[2025.08.10-19.54.45:436][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.016666s)
+[2025.08.10-19.54.45:458][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.08.10-19.54.45:459][ 15]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.08.10-19.54.45:461][ 15]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.10-19.54.45:461][ 15]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.10-19.54.45:461][ 15]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.10-19.54.45:461][ 15]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.10-19.54.45:463][ 15]LogWorldPartition: Display: WorldPartition initialize took 2.432 ms (total: 92.917 ms)
+[2025.08.10-19.54.45:463][ 15]LogPlayLevel: PIE: World Init took: (0.003833s)
+[2025.08.10-19.54.45:464][ 15]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.08.10-19.54.45:464][ 15]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.10-19.54.45:464][ 15]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.10-19.54.45:464][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.10-19.54.45:464][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.10-19.54.45:464][ 15]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.10-19.54.45:464][ 15]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.10-19.54.45:464][ 15]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.10-19.54.45:464][ 15]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.10-19.54.45:464][ 15]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.10-19.54.45:464][ 15]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.10-19.54.45:464][ 15]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.10-19.54.45:466][ 15]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.10-19.54.45:484][ 15]LogAudioMixer: Display: Using Audio Hardware Device System (2- TC-HELICON GoXLR Mini)
+[2025.08.10-19.54.45:484][ 15]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.10-19.54.45:484][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.10-19.54.45:484][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.10-19.54.45:484][ 15]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.08.10-19.54.45:484][ 15]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.08.10-19.54.45:486][ 15]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.08.10-19.54.45:486][ 15]LogInit: FAudioDevice initialized with ID 7.
+[2025.08.10-19.54.45:486][ 15]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.08.10-19.54.45:486][ 15]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_FirstPerson'.
+[2025.08.10-19.54.45:486][ 15]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.08.10-19.54.45:489][ 15]LogLoad: Game class is 'GM_FirstPerson_C'
+[2025.08.10-19.54.45:490][ 15]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_Lvl_FirstPerson_93RG4RG3I27TZTQ2434BZCCEY) is flushing async loading
+[2025.08.10-19.54.45:490][ 15]LogStreaming: Display: FlushAsyncLoading(625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641): 17 QueuedPackages, 0 AsyncPackages
+[2025.08.10-19.54.46:260][ 15]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.08.10-12.54.46
+[2025.08.10-19.54.46:265][ 15]LogWorld: Bringing up level for play took: 0.017970
+[2025.08.10-19.54.46:267][ 15]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.08.10-19.54.46:274][ 15]PIE: Server logged in
+[2025.08.10-19.54.46:276][ 15]PIE: Play in editor total start time 0.858 seconds.
+[2025.08.10-19.54.46:474][ 17]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.08.10-19.54.50:600][353]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 40.0
+[2025.08.10-19.54.53:053][562]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 30.0
+[2025.08.10-19.55.08:673][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-19.55.08:673][856]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-19.55.08:673][856]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.08.10-19.55.08:685][856]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-19.55.08:687][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-19.55.08:687][856]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.10-19.55.08:690][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.10-19.55.08:696][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-19.55.08:730][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-19.55.08:730][856]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.08.10-19.55.08:730][856]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.08.10-19.55.08:732][856]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.08.10-19.55.08:755][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.08.10-19.55.08:815][857]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.08.10-19.55.23:977][174]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.10-19.55.23:986][174]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.10-19.55.23:986][174]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.08.10-19.55.23:988][174]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 1.998 ms (total: 12.723 ms)
+[2025.08.10-19.55.23:988][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.10-19.55.23:988][174]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-19.55.24:003][174]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.10-19.55.24:005][174]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.084 ms (total: 12.701 ms)
+[2025.08.10-19.55.24:005][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016979s)
+[2025.08.10-19.55.24:005][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.017002s)
+[2025.08.10-19.55.24:027][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.08.10-19.55.24:033][174]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.08.10-19.55.24:034][174]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.10-19.55.24:035][174]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.10-19.55.24:035][174]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.10-19.55.24:035][174]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.10-19.55.24:037][174]LogWorldPartition: Display: WorldPartition initialize took 2.392 ms (total: 95.310 ms)
+[2025.08.10-19.55.24:037][174]LogPlayLevel: PIE: World Init took: (0.003834s)
+[2025.08.10-19.55.24:038][174]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.08.10-19.55.24:038][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.10-19.55.24:038][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.10-19.55.24:038][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.10-19.55.24:038][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.10-19.55.24:038][174]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.10-19.55.24:038][174]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.10-19.55.24:038][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.10-19.55.24:038][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.10-19.55.24:038][174]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.10-19.55.24:038][174]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.10-19.55.24:038][174]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.10-19.55.24:040][174]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.10-19.55.24:057][174]LogAudioMixer: Display: Using Audio Hardware Device System (2- TC-HELICON GoXLR Mini)
+[2025.08.10-19.55.24:057][174]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.10-19.55.24:057][174]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.10-19.55.24:057][174]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.10-19.55.24:057][174]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.08.10-19.55.24:057][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.08.10-19.55.24:059][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.08.10-19.55.24:059][174]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.08.10-19.55.24:059][174]LogInit: FAudioDevice initialized with ID 8.
+[2025.08.10-19.55.24:059][174]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_FirstPerson'.
+[2025.08.10-19.55.24:059][174]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.08.10-19.55.24:062][174]LogLoad: Game class is 'GM_FirstPerson_C'
+[2025.08.10-19.55.24:063][174]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_Lvl_FirstPerson_93RG4RG3I27TZTQ2434BZCCEY) is flushing async loading
+[2025.08.10-19.55.24:063][174]LogStreaming: Display: FlushAsyncLoading(642,643,644,645,646,647,648,649,650,651,652,653,654,655,656,657,658): 17 QueuedPackages, 0 AsyncPackages
+[2025.08.10-19.55.24:820][174]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.08.10-12.55.24
+[2025.08.10-19.55.24:825][174]LogWorld: Bringing up level for play took: 0.017124
+[2025.08.10-19.55.24:827][174]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.08.10-19.55.24:833][174]PIE: Server logged in
+[2025.08.10-19.55.24:836][174]PIE: Play in editor total start time 0.85 seconds.
+[2025.08.10-19.55.25:036][176]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.08.10-19.55.30:799][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1276.401733
+[2025.08.10-19.55.30:922][649]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.10-19.55.30:922][649]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1276.512451, Update Interval: 349.630432
+[2025.08.10-19.55.41:015][464]LogCharacterMovement: Zombie_BP_C_UAID_D8B32F0156F6048302_1118406547 is stuck and failed to move! Velocity: X=238.29 Y=-182.26 Z=0.00 Location: X=-4137.59 Y=-2978.08 Z=-1983.47 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:0.247 Actor:Elevator_BP_C_UAID_A85E4552D68BE68302_1301737323 Component:Elevator BoneName:None (0 other events since notify)
+[2025.08.10-19.55.41:015][464]LogCharacterMovement: Zombie_BP_C_UAID_D8B32F0156F6048302_1120556548 is stuck and failed to move! Velocity: X=199.77 Y=-215.36 Z=0.00 Location: X=-3988.50 Y=-3048.83 Z=-1983.44 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:0.278 Actor:Elevator_BP_C_UAID_A85E4552D68BE68302_1301737323 Component:Elevator BoneName:None (0 other events since notify)
+[2025.08.10-19.55.41:142][474]LogCharacterMovement: Zombie_BP_C_UAID_D8B32F0156F6048302_1197967562 is stuck and failed to move! Velocity: X=245.89 Y=-171.87 Z=0.00 Location: X=-4189.56 Y=-2932.55 Z=-1983.52 Normal: X=0.00 Y=0.89 Z=-0.45 PenetrationDepth:1.499 Actor:Elevator_BP_C_UAID_A85E4552D68BE68302_1301737323 Component:Elevator BoneName:None (0 other events since notify)
+[2025.08.10-19.55.41:232][481]LogCharacterMovement: Zombie_BP_C_UAID_D8B32F0156F6048302_1150990553 is stuck and failed to move! Velocity: X=24.00 Y=-9.81 Z=0.00 Location: X=-4032.37 Y=-3100.85 Z=-1982.09 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:34.220 Actor:Elevator_BP_C_UAID_A85E4552D68BE68302_1301737323 Component:Elevator BoneName:None (0 other events since notify)
+[2025.08.10-19.55.41:322][488]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 40.0
+[2025.08.10-19.55.42:026][544]LogCharacterMovement: Zombie_BP_C_UAID_D8B32F0156F6048302_1118406547 is stuck and failed to move! Velocity: X=135.74 Y=-125.98 Z=0.00 Location: X=-4137.59 Y=-2978.08 Z=-1983.47 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:50.594 Actor:Elevator_BP_C_UAID_A85E4552D68BE68302_1301737323 Component:Elevator BoneName:None (52 other events since notify)
+[2025.08.10-19.55.49:572][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-19.55.49:572][175]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-19.55.49:572][175]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.08.10-19.55.49:584][175]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-19.55.49:586][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-19.55.49:586][175]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.10-19.55.49:589][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.10-19.55.49:595][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-19.55.49:630][175]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.10-19.55.49:630][175]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.08.10-19.55.49:630][175]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.08.10-19.55.49:632][175]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.08.10-19.55.49:636][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-19.55.49:654][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.08.10-19.55.49:711][176]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.08.10-19.55.55:221][666]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Building_Objects/Elevator_BP.Elevator_BP_C
+[2025.08.10-19.55.55:221][666]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Building_Objects/Elevator_BP.Elevator_BP_C
+[2025.08.10-19.55.55:222][666]LogActorFactory: Actor Factory spawned Blueprint /Game/Building_Objects/Elevator_BP.Elevator_BP as actor: Elevator_BP_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.Elevator_BP_C_1
+[2025.08.10-19.55.55:224][666]LogActorFactory: Actor Factory spawned Blueprint /Game/Building_Objects/Elevator_BP.Elevator_BP as actor: Elevator_BP_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.Elevator_BP_C_1
+[2025.08.10-19.56.00:710][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.08.10-19.56.00:718][115]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.08.10-19.56.00:725][115]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Building_Objects/Elevator_BP.Elevator_BP_C
+[2025.08.10-19.56.00:725][115]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Building_Objects/Elevator_BP.Elevator_BP_C
+[2025.08.10-19.56.00:729][115]LogActorFactory: Actor Factory spawned Blueprint /Game/Building_Objects/Elevator_BP.Elevator_BP as actor: Elevator_BP_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.Elevator_BP_C_UAID_A85E4552D68BE68302_1379682324
+[2025.08.10-19.56.00:731][115]LogActorFactory: Actor Factory spawned Blueprint /Game/Building_Objects/Elevator_BP.Elevator_BP as actor: Elevator_BP_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.Elevator_BP_C_UAID_A85E4552D68BE68302_1379682324
+[2025.08.10-19.56.05:310][474]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.10-19.56.05:320][474]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.10-19.56.05:320][474]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.08.10-19.56.05:322][474]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 2.034 ms (total: 14.757 ms)
+[2025.08.10-19.56.05:322][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.10-19.56.05:322][474]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-19.56.05:337][474]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.10-19.56.05:340][474]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.071 ms (total: 14.773 ms)
+[2025.08.10-19.56.05:340][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017593s)
+[2025.08.10-19.56.05:340][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.017622s)
+[2025.08.10-19.56.05:362][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.08.10-19.56.05:366][474]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.08.10-19.56.05:367][474]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.10-19.56.05:367][474]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.10-19.56.05:367][474]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.10-19.56.05:367][474]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.10-19.56.05:370][474]LogWorldPartition: Display: WorldPartition initialize took 2.465 ms (total: 97.775 ms)
+[2025.08.10-19.56.05:370][474]LogPlayLevel: PIE: World Init took: (0.003814s)
+[2025.08.10-19.56.05:371][474]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.08.10-19.56.05:371][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.10-19.56.05:371][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.10-19.56.05:371][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.10-19.56.05:371][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.10-19.56.05:371][474]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.10-19.56.05:371][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.10-19.56.05:371][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.10-19.56.05:371][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.10-19.56.05:371][474]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.10-19.56.05:371][474]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.10-19.56.05:371][474]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.10-19.56.05:372][474]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.10-19.56.05:390][474]LogAudioMixer: Display: Using Audio Hardware Device System (2- TC-HELICON GoXLR Mini)
+[2025.08.10-19.56.05:390][474]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.10-19.56.05:390][474]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.10-19.56.05:390][474]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.10-19.56.05:390][474]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.08.10-19.56.05:390][474]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.08.10-19.56.05:392][474]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.08.10-19.56.05:392][474]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.08.10-19.56.05:392][474]LogInit: FAudioDevice initialized with ID 9.
+[2025.08.10-19.56.05:392][474]LogAudio: Display: Audio Device (ID: 9) registered with world 'Lvl_FirstPerson'.
+[2025.08.10-19.56.05:392][474]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.08.10-19.56.05:395][474]LogLoad: Game class is 'GM_FirstPerson_C'
+[2025.08.10-19.56.05:396][474]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_Lvl_FirstPerson_93RG4RG3I27TZTQ2434BZCCEY) is flushing async loading
+[2025.08.10-19.56.05:396][474]LogStreaming: Display: FlushAsyncLoading(659,660,661,662,663,664,665,666,667,668,669,670,671,672,673,674,675): 17 QueuedPackages, 0 AsyncPackages
+[2025.08.10-19.56.06:152][474]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.08.10-12.56.06
+[2025.08.10-19.56.06:156][474]LogWorld: Bringing up level for play took: 0.016992
+[2025.08.10-19.56.06:158][474]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.08.10-19.56.06:166][474]PIE: Server logged in
+[2025.08.10-19.56.06:168][474]PIE: Play in editor total start time 0.848 seconds.
+[2025.08.10-19.56.06:384][476]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.08.10-19.56.35:602][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-19.56.35:602][898]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-19.56.35:602][898]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.08.10-19.56.35:615][898]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-19.56.35:616][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-19.56.35:617][898]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.10-19.56.35:619][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.10-19.56.35:625][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-19.56.35:657][898]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.10-19.56.35:657][898]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.08.10-19.56.35:657][898]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.08.10-19.56.35:659][898]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.08.10-19.56.35:663][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-19.56.35:679][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.08.10-19.56.35:734][899]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.08.10-19.56.44:273][750]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.BP_JumpPad_C
+[2025.08.10-19.56.44:273][750]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.BP_JumpPad_C
+[2025.08.10-19.56.44:276][750]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.BP_JumpPad as actor: BP_JumpPad_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_JumpPad_C_2
+[2025.08.10-19.56.44:279][750]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.BP_JumpPad as actor: BP_JumpPad_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_JumpPad_C_2
+[2025.08.10-19.56.45:809][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.08.10-19.56.45:816][854]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.08.10-19.56.45:822][854]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.BP_JumpPad_C
+[2025.08.10-19.56.45:822][854]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.BP_JumpPad_C
+[2025.08.10-19.56.45:827][854]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.BP_JumpPad as actor: BP_JumpPad_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_JumpPad_C_UAID_A85E4552D68BE68302_1424779325
+[2025.08.10-19.56.45:830][854]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.BP_JumpPad as actor: BP_JumpPad_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_JumpPad_C_UAID_A85E4552D68BE68302_1424779325
+[2025.08.10-19.57.46:478][872]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.BP_JumpPad_C
+[2025.08.10-19.57.46:478][872]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.BP_JumpPad_C
+[2025.08.10-19.57.46:480][872]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.BP_JumpPad as actor: BP_JumpPad_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_JumpPad_C_3
+[2025.08.10-19.57.46:483][872]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.BP_JumpPad as actor: BP_JumpPad_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_JumpPad_C_3
+[2025.08.10-19.57.48:049][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.08.10-19.57.48:054][969]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.08.10-19.57.48:060][969]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.BP_JumpPad_C
+[2025.08.10-19.57.48:060][969]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.BP_JumpPad_C
+[2025.08.10-19.57.48:065][969]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.BP_JumpPad as actor: BP_JumpPad_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_JumpPad_C_UAID_A85E4552D68BE68302_1487017326
+[2025.08.10-19.57.48:068][969]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelPrototyping/Interactable/JumpPad/BP_JumpPad.BP_JumpPad as actor: BP_JumpPad_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_JumpPad_C_UAID_A85E4552D68BE68302_1487017326
+[2025.08.10-19.57.50:948][222]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.10-19.57.50:957][222]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.10-19.57.50:957][222]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.08.10-19.57.50:960][222]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 3.029 ms (total: 17.786 ms)
+[2025.08.10-19.57.50:960][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.10-19.57.50:991][222]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-19.57.51:006][222]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.10-19.57.51:008][222]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.197 ms (total: 16.971 ms)
+[2025.08.10-19.57.51:008][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017743s)
+[2025.08.10-19.57.51:008][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.017774s)
+[2025.08.10-19.57.51:031][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.08.10-19.57.51:033][222]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.08.10-19.57.51:034][222]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.10-19.57.51:034][222]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.10-19.57.51:034][222]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.10-19.57.51:034][222]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.10-19.57.51:037][222]LogWorldPartition: Display: WorldPartition initialize took 2.575 ms (total: 100.351 ms)
+[2025.08.10-19.57.51:037][222]LogPlayLevel: PIE: World Init took: (0.003952s)
+[2025.08.10-19.57.51:038][222]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.08.10-19.57.51:038][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.10-19.57.51:038][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.10-19.57.51:038][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.10-19.57.51:038][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.10-19.57.51:038][222]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.10-19.57.51:038][222]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.10-19.57.51:038][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.10-19.57.51:038][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.10-19.57.51:038][222]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.10-19.57.51:038][222]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.10-19.57.51:038][222]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.10-19.57.51:039][222]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.10-19.57.51:057][222]LogAudioMixer: Display: Using Audio Hardware Device System (2- TC-HELICON GoXLR Mini)
+[2025.08.10-19.57.51:057][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.10-19.57.51:057][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.10-19.57.51:057][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.10-19.57.51:057][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.08.10-19.57.51:057][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.08.10-19.57.51:059][222]LogInit: FAudioDevice initialized with ID 10.
+[2025.08.10-19.57.51:059][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.08.10-19.57.51:059][222]LogAudio: Display: Audio Device (ID: 10) registered with world 'Lvl_FirstPerson'.
+[2025.08.10-19.57.51:059][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.08.10-19.57.51:059][222]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.08.10-19.57.51:062][222]LogLoad: Game class is 'GM_FirstPerson_C'
+[2025.08.10-19.57.51:063][222]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_Lvl_FirstPerson_93RG4RG3I27TZTQ2434BZCCEY) is flushing async loading
+[2025.08.10-19.57.51:063][222]LogStreaming: Display: FlushAsyncLoading(676,677,678,679,680,681,682,683,684,685,686,687,688,689,690,691,692): 17 QueuedPackages, 0 AsyncPackages
+[2025.08.10-19.57.51:823][222]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.08.10-12.57.51
+[2025.08.10-19.57.51:828][222]LogWorld: Bringing up level for play took: 0.018064
+[2025.08.10-19.57.51:830][222]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.08.10-19.57.51:837][222]PIE: Server logged in
+[2025.08.10-19.57.51:839][222]PIE: Play in editor total start time 0.883 seconds.
+[2025.08.10-19.57.52:040][224]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.08.10-19.58.19:071][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-19.58.19:071][414]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-19.58.19:071][414]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.08.10-19.58.19:083][414]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-19.58.19:085][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-19.58.19:085][414]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.10-19.58.19:088][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.10-19.58.19:094][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-19.58.19:130][414]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.10-19.58.19:130][414]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.08.10-19.58.19:130][414]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.08.10-19.58.19:132][414]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.08.10-19.58.19:137][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-19.58.19:155][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.08.10-19.58.19:216][415]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.08.10-19.58.42:881][738]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.08.10-19.58.48:877][273]LogContentBrowser: Deferred new asset file creation: Elevator_BP1
+[2025.08.10-19.58.48:885][273]LogContentBrowser: Creating deferred item: Elevator_BP1
+[2025.08.10-19.58.48:909][274]LogContentBrowser: Renaming the item being created (Deferred Item: Elevator_BP1).
+[2025.08.10-19.58.52:947][680]LogContentBrowser: Attempting asset rename: Elevator_BP1 -> ElevatorH_BP1
+[2025.08.10-19.58.52:979][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.08.10-19.58.52:992][680]LogContentBrowser: End creating deferred item Elevator_BP1
+[2025.08.10-19.58.52:993][680]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.08.10-19.58.58:143][131]LogContentBrowser: Attempting asset rename: ElevatorH_BP1 -> ElevatorH_BP
+[2025.08.10-19.58.58:219][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.10-19.58.58:220][131]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Building_Objects/ElevatorH_BP] ([2] browsable assets)...
+[2025.08.10-19.58.58:220][131]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.08.10-19.58.58:267][131]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Building_Objects/ElevatorH_BP.ElevatorH_BP]
+[2025.08.10-19.58.58:267][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/Building_Objects/ElevatorH_BP]
+[2025.08.10-19.58.58:282][131]LogSavePackage: Moving output files for package: /Game/Building_Objects/ElevatorH_BP
+[2025.08.10-19.58.58:282][131]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/ElevatorH_BP6B74FBEF43ED7F2E7EBD6FA600C29430.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/Building_Objects/ElevatorH_BP.uasset'
+[2025.08.10-19.58.58:286][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.353 ms (total: 642.873 ms)
+[2025.08.10-19.58.58:321][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.08.10-19.58.58:347][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.08.10-19.58.58:372][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.08.10-19.58.58:401][131]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.10-19.58.58:401][131]LogContentValidation: Enabled validators:
+[2025.08.10-19.58.58:401][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.10-19.58.58:401][131]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.10-19.58.58:401][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.10-19.58.58:401][131]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.10-19.58.58:401][131]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.10-19.58.58:401][131]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.10-19.58.58:401][131]AssetCheck: /Game/Building_Objects/ElevatorH_BP Validating asset
+[2025.08.10-19.58.58:446][131]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.10-19.59.00:532][270]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Building_Objects/ElevatorH_BP.ElevatorH_BP
+[2025.08.10-19.59.00:532][270]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.08.10-20.01.35:184][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.08.10-20.01.35:197][815]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/4G/LYDELTOBSFL4AZKPJPUS88_Auto1
+[2025.08.10-20.01.35:197][815]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/LYDELTOBSFL4AZKPJPUS88_Auto1F2105C024065115856A4088DF10D3D5B.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/4G/LYDELTOBSFL4AZKPJPUS88_Auto1.uasset'
+[2025.08.10-20.01.35:207][815]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/P1/6PWOJKGBZWLXC5LTS6YV17_Auto1
+[2025.08.10-20.01.35:207][815]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/6PWOJKGBZWLXC5LTS6YV17_Auto152F4E8EE47267F5CB70348A183F3E6A0.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/P1/6PWOJKGBZWLXC5LTS6YV17_Auto1.uasset'
+[2025.08.10-20.01.35:216][815]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/CS/YB3SF8IFMWL4PW095H253E_Auto1
+[2025.08.10-20.01.35:217][815]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/YB3SF8IFMWL4PW095H253E_Auto19C9860E44C8D044158C48A8FB04A459A.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/CS/YB3SF8IFMWL4PW095H253E_Auto1.uasset'
+[2025.08.10-20.01.35:225][815]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/F9/59QZWG3BQAS8U2W9CR9DGH_Auto1
+[2025.08.10-20.01.35:225][815]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/59QZWG3BQAS8U2W9CR9DGH_Auto1919F78ED478BD8AA7454B69D0B622809.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/F9/59QZWG3BQAS8U2W9CR9DGH_Auto1.uasset'
+[2025.08.10-20.01.35:227][815]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.100
+[2025.08.10-20.01.35:227][815]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.100
+[2025.08.10-20.01.43:782][841]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1649.381470
+[2025.08.10-20.01.44:781][844]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.10-20.01.44:781][844]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1650.047974, Update Interval: 307.038788
+[2025.08.10-20.02.00:115][890]LogSlate: Window 'ElevatorH_BP' being destroyed
+[2025.08.10-20.02.00:121][890]LogSlate: Window 'ElevatorH_BP' being destroyed
+[2025.08.10-20.02.00:127][890]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-20.02.00:127][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-20.02.00:185][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.08.10-20.02.02:540][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.08.10-20.02.02:676][ 62]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.08.10-20.02.02:685][ 62]LogSlate: Took 0.008092 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.08.10-20.02.06:502][ 62]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.10-20.02.06:771][ 62]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Building_Objects/ElevatorH_BP.ElevatorH_BP
+	Asset Type: Blueprint
+[2025.08.10-20.02.07:222][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.08.10-20.02.07:283][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.08.10-20.02.07:308][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.08.10-20.02.07:332][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.08.10-20.02.18:093][ 25]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.08.10-20.02.18:093][ 25]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.08.10-20.02.18:093][ 25]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_1
+[2025.08.10-20.02.18:094][ 25]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_1
+[2025.08.10-20.02.18:520][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.08.10-20.02.18:533][ 52]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2025.08.10-20.02.18:539][ 52]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.08.10-20.02.18:539][ 52]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.08.10-20.02.18:542][ 52]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_A85E4552D68BE68302_1757496327
+[2025.08.10-20.02.18:542][ 52]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_A85E4552D68BE68302_1757496327
+[2025.08.10-20.03.37:445][536]LogContentBrowser: Deferred new asset file creation: NewLevelSequence
+[2025.08.10-20.03.37:451][536]LogContentBrowser: Creating deferred item: NewLevelSequence
+[2025.08.10-20.03.37:463][537]LogContentBrowser: Renaming the item being created (Deferred Item: NewLevelSequence).
+[2025.08.10-20.04.03:427][550]LogContentBrowser: Attempting asset rename: NewLevelSequence -> ElevatorAnimation
+[2025.08.10-20.04.03:429][550]LogContentBrowser: End creating deferred item NewLevelSequence
+[2025.08.10-20.04.06:723][867]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Building_Objects/Elevator_BP.Elevator_BP
+[2025.08.10-20.04.06:724][867]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.08.10-20.05.29:982][329]LogSlate: Window 'Elevator_BP' being destroyed
+[2025.08.10-20.05.29:988][329]LogSlate: Window 'Elevator_BP' being destroyed
+[2025.08.10-20.05.29:992][329]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-20.05.29:992][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-20.05.30:073][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.08.10-20.05.37:272][ 36]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Building_Objects/ElevatorAnimation.ElevatorAnimation
+[2025.08.10-20.05.37:388][ 36]LogSequenceNavigator: Activating provider: LevelSequence
+[2025.08.10-20.05.37:388][ 36]LogSequenceNavigator: Loading provider state: LevelSequence
+[2025.08.10-20.05.37:425][ 36]LogSequenceNavigator: Tool instance 'LevelSequenceEditor' provider 'LevelSequence' registered
+[2025.08.10-20.05.37:449][ 36]LogStreaming: Display: FlushAsyncLoading(693): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.10-20.07.30:000][298]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1995.598389
+[2025.08.10-20.07.31:001][301]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.10-20.07.31:001][301]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1996.266113, Update Interval: 301.298248
+[2025.08.10-20.09.54:878][640]LogStreaming: Display: FlushAsyncLoading(694): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.10-20.09.54:914][640]LogUObjectGlobals: Warning: Guid referenced by Landscape /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1 is already used by Landscape /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:914][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_0 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:914][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_1 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:914][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_10 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_10, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:914][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_11 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_11, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:914][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_12 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_12, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:914][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_13 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_13, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:914][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_14 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_14, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:914][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_15 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_15, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:914][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_16 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_16, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:914][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_17 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_17, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_18 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_18, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_19 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_19, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_2 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_2, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_20 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_20, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_21 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_21, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_22 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_22, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_23 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_23, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_24 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_24, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_3 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_3, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_4 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_4, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_5 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_5, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_6 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_6, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_7 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_7, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_8 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_8, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_9 is already used by LandscapeComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeComponent_9, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_25 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_25, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_26 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_26, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_27 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_27, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_28 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_28, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_29 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_29, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_30 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_30, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:915][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_31 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_31, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_32 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_32, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_33 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_33, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_34 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_34, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_35 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_35, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_36 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_36, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_37 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_37, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_38 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_38, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_39 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_39, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_40 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_40, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_41 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_41, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_42 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_42, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_43 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_43, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_44 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_44, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_45 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_45, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_46 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_46, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_47 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_47, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_48 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_48, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:916][640]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Game/Nimikko_WesternTown/Maps/WildWestVillage.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_49 is already used by LandscapeHeightfieldCollisionComponent /Temp/Game/Nimikko_WesternTown/Maps/WildWestVillage_LevelInstance_a5473b8b1ca0fabf_0.WildWestVillage:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_49, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2025.08.10-20.09.54:989][640]LogChaosDD: Creating Chaos Debug Draw Scene for world WildWestVillage
+[2025.08.10-20.11.35:551][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.08.10-20.11.35:566][ 46]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/0C/F6VBN4NTU0UO9YFK1LZXO5_Auto2
+[2025.08.10-20.11.35:566][ 46]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/F6VBN4NTU0UO9YFK1LZXO5_Auto2EB08F9564AE2D9C1AA749DB0B367E9FD.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/0C/F6VBN4NTU0UO9YFK1LZXO5_Auto2.uasset'
+[2025.08.10-20.11.35:568][ 46]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.059
+[2025.08.10-20.11.35:568][ 46]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2025.08.10-20.11.35:568][ 46]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Building_Objects/Elevator_BP] ([2] browsable assets)...
+[2025.08.10-20.11.35:700][ 46]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Building_Objects/Elevator_BP.Elevator_BP]
+[2025.08.10-20.11.35:700][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/Building_Objects/Elevator_BP]
+[2025.08.10-20.11.35:715][ 46]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Building_Objects/Elevator_BP_Auto2
+[2025.08.10-20.11.35:716][ 46]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Elevator_BP_Auto2909BEC9F43B4E3D23A039896ECBC81BE.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Autosaves/Game/Building_Objects/Elevator_BP_Auto2.uasset'
+[2025.08.10-20.11.35:718][ 46]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Building_Objects/ElevatorAnimation] ([1] browsable assets)...
+[2025.08.10-20.11.35:718][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/Building_Objects/ElevatorAnimation]
+[2025.08.10-20.11.35:726][ 46]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Building_Objects/ElevatorAnimation_Auto2
+[2025.08.10-20.11.35:726][ 46]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/ElevatorAnimation_Auto230D3FDE14BEB5038D90F3D90E8C3200B.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Autosaves/Game/Building_Objects/ElevatorAnimation_Auto2.uasset'
+[2025.08.10-20.11.35:727][ 46]LogFileHelpers: Auto-saving content packages took 0.159
+[2025.08.10-20.13.08:779][ 89]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2334.378662
+[2025.08.10-20.13.09:781][ 92]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.10-20.13.09:781][ 92]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2335.047119, Update Interval: 319.684448
+[2025.08.10-20.14.55:129][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.10-20.14.55:172][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.08.10-20.14.55:198][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.08.10-20.14.55:221][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.08.10-20.14.55:233][640]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/4G/LYDELTOBSFL4AZKPJPUS88
+[2025.08.10-20.14.55:233][640]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/LYDELTOBSFL4AZKPJPUS88025BB70F4D043BEC291BF7B65B7CB32C.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/4G/LYDELTOBSFL4AZKPJPUS88.uasset'
+[2025.08.10-20.14.55:242][640]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/P1/6PWOJKGBZWLXC5LTS6YV17
+[2025.08.10-20.14.55:242][640]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/6PWOJKGBZWLXC5LTS6YV179CEAE9ED45A241AF71719ABCD9FA04B2.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/P1/6PWOJKGBZWLXC5LTS6YV17.uasset'
+[2025.08.10-20.14.55:250][640]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/CS/YB3SF8IFMWL4PW095H253E
+[2025.08.10-20.14.55:251][640]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/YB3SF8IFMWL4PW095H253EE5F921E14B6C541F4F2F4D9DBACD0A97.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/CS/YB3SF8IFMWL4PW095H253E.uasset'
+[2025.08.10-20.14.55:260][640]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/F9/59QZWG3BQAS8U2W9CR9DGH
+[2025.08.10-20.14.55:260][640]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/59QZWG3BQAS8U2W9CR9DGH8C4B862448C64A0F6AA19DAF8A46EE4B.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/F9/59QZWG3BQAS8U2W9CR9DGH.uasset'
+[2025.08.10-20.14.55:268][640]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/0C/F6VBN4NTU0UO9YFK1LZXO5
+[2025.08.10-20.14.55:268][640]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/F6VBN4NTU0UO9YFK1LZXO584C158B24478793899A6719DC0B7FA79.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/0C/F6VBN4NTU0UO9YFK1LZXO5.uasset'
+[2025.08.10-20.14.55:278][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.108 ms (total: 791.981 ms)
+[2025.08.10-20.14.55:298][640]LogContentValidation: Display: Starting to validate 5 assets
+[2025.08.10-20.14.55:298][640]LogContentValidation: Enabled validators:
+[2025.08.10-20.14.55:298][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.10-20.14.55:298][640]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.10-20.14.55:298][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.10-20.14.55:298][640]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.10-20.14.55:298][640]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.10-20.14.55:298][640]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.10-20.14.55:299][640]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.08.10-20.14.55:346][640]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.10-20.15.02:034][299]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Building_Objects/ElevatorAnimation.ElevatorAnimation
+[2025.08.10-20.15.02:034][299]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Building_Objects/ElevatorAnimation.ElevatorAnimation
+[2025.08.10-20.15.02:035][299]LogActorFactory: Actor Factory spawned LevelSequence /Game/Building_Objects/ElevatorAnimation.ElevatorAnimation as actor: LevelSequenceActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LevelSequenceActor_0
+[2025.08.10-20.15.02:035][299]LogActorFactory: Actor Factory spawned LevelSequence /Game/Building_Objects/ElevatorAnimation.ElevatorAnimation as actor: LevelSequenceActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LevelSequenceActor_0
+[2025.08.10-20.15.02:460][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.08.10-20.15.02:465][329]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.08.10-20.15.02:470][329]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Building_Objects/ElevatorAnimation.ElevatorAnimation
+[2025.08.10-20.15.02:470][329]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Building_Objects/ElevatorAnimation.ElevatorAnimation
+[2025.08.10-20.15.02:473][329]LogActorFactory: Actor Factory spawned LevelSequence /Game/Building_Objects/ElevatorAnimation.ElevatorAnimation as actor: LevelSequenceActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LevelSequenceActor_UAID_A85E4552D68BE78302_1447685504
+[2025.08.10-20.15.02:474][329]LogActorFactory: Actor Factory spawned LevelSequence /Game/Building_Objects/ElevatorAnimation.ElevatorAnimation as actor: LevelSequenceActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LevelSequenceActor_UAID_A85E4552D68BE78302_1447685504
+[2025.08.10-20.15.24:191][359]LogStreaming: Display: FlushAsyncLoading(695): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.10-20.15.26:174][504]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.Lvl_FirstPerson
+[2025.08.10-20.15.26:175][504]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.08.10-20.15.33:603][623]LogSlate: Window 'Lvl_FirstPerson' being destroyed
+[2025.08.10-20.16.39:779][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.08.10-20.16.40:714][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.10-20.16.40:792][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.08.10-20.16.40:807][514]LogSavePackage: Moving output files for package: /Game/FirstPerson/Lvl_FirstPerson
+[2025.08.10-20.16.40:808][514]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Lvl_FirstPersonD3E0CECD4FD6E34E3C82FFB5669EA279.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/FirstPerson/Lvl_FirstPerson.umap'
+[2025.08.10-20.16.40:831][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.10-20.16.40:841][514]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/OA/TXAC63S1YBNRL7FZN0PYXU
+[2025.08.10-20.16.40:841][514]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/TXAC63S1YBNRL7FZN0PYXU1872E610449306A78915DAA0377DFB14.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/OA/TXAC63S1YBNRL7FZN0PYXU.uasset'
+[2025.08.10-20.16.40:847][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 15.315 ms (total: 807.297 ms)
+[2025.08.10-20.16.40:848][514]LogFileHelpers: Saving map 'Lvl_FirstPerson' took 0.116
+[2025.08.10-20.16.40:854][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.342 ms (total: 947.639 ms)
+[2025.08.10-20.16.40:879][514]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.10-20.16.40:879][514]LogContentValidation: Enabled validators:
+[2025.08.10-20.16.40:879][514]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.10-20.16.40:879][514]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.10-20.16.40:879][514]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.10-20.16.40:879][514]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.10-20.16.40:879][514]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.10-20.16.40:879][514]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.10-20.16.40:879][514]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.08.10-20.16.40:901][514]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.10-20.16.42:743][703]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.10-20.16.42:752][703]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.10-20.16.42:752][703]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.08.10-20.16.42:754][703]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 2.129 ms (total: 19.916 ms)
+[2025.08.10-20.16.42:755][703]LogPlayLevel: [PlayLevel] Compiling Elevator_BP before play...
+[2025.08.10-20.16.42:828][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.10-20.16.42:830][703]LogPlayLevel: PlayLevel: Blueprint regeneration took 75 ms (1 blueprints)
+[2025.08.10-20.16.42:830][703]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-20.16.42:846][703]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.10-20.16.42:849][703]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.361 ms (total: 19.333 ms)
+[2025.08.10-20.16.42:849][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018744s)
+[2025.08.10-20.16.42:849][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.018771s)
+[2025.08.10-20.16.42:872][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.08.10-20.16.42:873][703]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.08.10-20.16.42:875][703]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.10-20.16.42:875][703]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.10-20.16.42:875][703]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.10-20.16.42:875][703]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.10-20.16.42:877][703]LogWorldPartition: Display: WorldPartition initialize took 2.686 ms (total: 103.037 ms)
+[2025.08.10-20.16.42:877][703]LogPlayLevel: PIE: World Init took: (0.004151s)
+[2025.08.10-20.16.42:878][703]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.08.10-20.16.42:878][703]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.10-20.16.42:878][703]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.10-20.16.42:878][703]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.10-20.16.42:878][703]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.10-20.16.42:878][703]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.10-20.16.42:878][703]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.10-20.16.42:878][703]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.10-20.16.42:878][703]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.10-20.16.42:878][703]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.10-20.16.42:878][703]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.10-20.16.42:878][703]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.10-20.16.42:880][703]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.10-20.16.42:898][703]LogAudioMixer: Display: Using Audio Hardware Device System (2- TC-HELICON GoXLR Mini)
+[2025.08.10-20.16.42:898][703]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.10-20.16.42:898][703]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.10-20.16.42:898][703]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.10-20.16.42:899][703]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.08.10-20.16.42:899][703]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.08.10-20.16.42:900][703]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.08.10-20.16.42:900][703]LogInit: FAudioDevice initialized with ID 11.
+[2025.08.10-20.16.42:900][703]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.08.10-20.16.42:900][703]LogAudio: Display: Audio Device (ID: 11) registered with world 'Lvl_FirstPerson'.
+[2025.08.10-20.16.42:900][703]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.08.10-20.16.42:904][703]LogLoad: Game class is 'GM_FirstPerson_C'
+[2025.08.10-20.16.42:905][703]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_Lvl_FirstPerson_93RG4RG3I27TZTQ2434BZCCEY) is flushing async loading
+[2025.08.10-20.16.42:905][703]LogStreaming: Display: FlushAsyncLoading(698,699,700,701,702,703,704,705,706,707,708,709,710,711,712,713,714): 17 QueuedPackages, 0 AsyncPackages
+[2025.08.10-20.16.43:688][703]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.08.10-13.16.43
+[2025.08.10-20.16.43:693][703]LogWorld: Bringing up level for play took: 0.018679
+[2025.08.10-20.16.43:695][703]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.08.10-20.16.43:703][703]PIE: Server logged in
+[2025.08.10-20.16.43:705][703]PIE: Play in editor total start time 0.954 seconds.
+[2025.08.10-20.16.43:908][705]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.08.10-20.16.50:752][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-20.16.50:752][234]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-20.16.50:752][234]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.08.10-20.16.50:765][234]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-20.16.50:767][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-20.16.50:767][234]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.10-20.16.50:769][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.10-20.16.50:776][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-20.16.50:806][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-20.16.50:806][234]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.08.10-20.16.50:806][234]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2025.08.10-20.16.50:808][234]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2025.08.10-20.16.50:835][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.08.10-20.16.50:871][235]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.08.10-20.17.30:694][962]LogEditorTransaction: Undo Create Pin Link
+[2025.08.10-20.18.47:459][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.08.10-20.18.48:052][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.10-20.18.48:136][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.08.10-20.18.48:152][550]LogSavePackage: Moving output files for package: /Game/FirstPerson/Lvl_FirstPerson
+[2025.08.10-20.18.48:152][550]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Lvl_FirstPersonFF06FF6F49CD6C18E2A2649B63A812DB.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/FirstPerson/Lvl_FirstPerson.umap'
+[2025.08.10-20.18.48:170][550]LogFileHelpers: All files are already saved.
+[2025.08.10-20.18.48:171][550]LogFileHelpers: Saving map 'Lvl_FirstPerson' took 0.099
+[2025.08.10-20.18.48:177][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.188 ms (total: 1.07 sec)
+[2025.08.10-20.18.48:196][550]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.10-20.18.48:197][550]LogContentValidation: Enabled validators:
+[2025.08.10-20.18.48:197][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.10-20.18.48:197][550]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.10-20.18.48:197][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.10-20.18.48:197][550]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.10-20.18.48:197][550]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.10-20.18.48:197][550]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.10-20.18.48:197][550]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.08.10-20.18.50:520][785]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.10-20.18.50:527][785]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.10-20.18.50:527][785]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.08.10-20.18.50:529][785]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 1.870 ms (total: 21.786 ms)
+[2025.08.10-20.18.50:529][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.10-20.18.50:529][785]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-20.18.50:546][785]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.10-20.18.50:548][785]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.366 ms (total: 21.699 ms)
+[2025.08.10-20.18.50:548][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018435s)
+[2025.08.10-20.18.50:548][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.018459s)
+[2025.08.10-20.18.50:572][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.08.10-20.18.50:573][785]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.08.10-20.18.50:575][785]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.10-20.18.50:575][785]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.10-20.18.50:575][785]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.10-20.18.50:575][785]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.10-20.18.50:578][785]LogWorldPartition: Display: WorldPartition initialize took 2.802 ms (total: 105.839 ms)
+[2025.08.10-20.18.50:578][785]LogPlayLevel: PIE: World Init took: (0.004281s)
+[2025.08.10-20.18.50:579][785]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.08.10-20.18.50:579][785]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.10-20.18.50:579][785]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.10-20.18.50:579][785]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.10-20.18.50:579][785]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.10-20.18.50:579][785]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.10-20.18.50:579][785]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.10-20.18.50:579][785]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.10-20.18.50:579][785]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.10-20.18.50:579][785]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.10-20.18.50:579][785]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.10-20.18.50:579][785]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.10-20.18.50:580][785]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.10-20.18.50:598][785]LogAudioMixer: Display: Using Audio Hardware Device System (2- TC-HELICON GoXLR Mini)
+[2025.08.10-20.18.50:598][785]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.10-20.18.50:598][785]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.10-20.18.50:598][785]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.10-20.18.50:598][785]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.08.10-20.18.50:598][785]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.08.10-20.18.50:600][785]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.08.10-20.18.50:600][785]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.08.10-20.18.50:600][785]LogInit: FAudioDevice initialized with ID 12.
+[2025.08.10-20.18.50:600][785]LogAudio: Display: Audio Device (ID: 12) registered with world 'Lvl_FirstPerson'.
+[2025.08.10-20.18.50:600][785]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.08.10-20.18.50:603][785]LogLoad: Game class is 'GM_FirstPerson_C'
+[2025.08.10-20.18.50:604][785]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_Lvl_FirstPerson_93RG4RG3I27TZTQ2434BZCCEY) is flushing async loading
+[2025.08.10-20.18.50:604][785]LogStreaming: Display: FlushAsyncLoading(715,716,717,718,719,720,721,722,723,724,725,726,727,728,729,730,731): 17 QueuedPackages, 0 AsyncPackages
+[2025.08.10-20.18.51:360][785]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.08.10-13.18.51
+[2025.08.10-20.18.51:364][785]LogWorld: Bringing up level for play took: 0.018823
+[2025.08.10-20.18.51:366][785]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.08.10-20.18.51:375][785]PIE: Server logged in
+[2025.08.10-20.18.51:377][785]PIE: Play in editor total start time 0.85 seconds.
+[2025.08.10-20.18.51:577][787]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.08.10-20.18.59:147][368]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 40.0
+[2025.08.10-20.19.01:167][522]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 30.0
+[2025.08.10-20.19.03:190][680]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 20.0
+[2025.08.10-20.19.05:219][837]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 10.0
+[2025.08.10-20.19.07:535][963]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0.0
+[2025.08.10-20.19.08:201][965]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 90.0
+[2025.08.10-20.19.09:368][978]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 80.0
+[2025.08.10-20.19.10:401][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-20.19.10:401][ 55]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-20.19.10:401][ 55]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.08.10-20.19.10:414][ 55]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-20.19.10:416][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-20.19.10:416][ 55]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.10-20.19.10:419][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.10-20.19.10:425][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-20.19.10:461][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-20.19.10:461][ 55]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.08.10-20.19.10:461][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2025.08.10-20.19.10:463][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2025.08.10-20.19.10:485][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.08.10-20.19.10:528][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.08.10-20.19.28:960][721]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2714.545410
+[2025.08.10-20.19.29:074][731]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.10-20.19.29:074][731]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2714.646240, Update Interval: 342.566010
+[2025.08.10-20.19.59:290][  4]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.10-20.19.59:298][  4]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.10-20.19.59:298][  4]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.08.10-20.19.59:300][  4]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 1.906 ms (total: 23.693 ms)
+[2025.08.10-20.19.59:300][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.10-20.19.59:338][  4]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-20.19.59:354][  4]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.10-20.19.59:356][  4]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.212 ms (total: 23.911 ms)
+[2025.08.10-20.19.59:356][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018286s)
+[2025.08.10-20.19.59:356][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.018317s)
+[2025.08.10-20.19.59:380][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.08.10-20.19.59:383][  4]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.08.10-20.19.59:385][  4]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.10-20.19.59:385][  4]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.10-20.19.59:385][  4]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.10-20.19.59:385][  4]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.10-20.19.59:387][  4]LogWorldPartition: Display: WorldPartition initialize took 2.754 ms (total: 108.594 ms)
+[2025.08.10-20.19.59:387][  4]LogPlayLevel: PIE: World Init took: (0.004167s)
+[2025.08.10-20.19.59:388][  4]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.08.10-20.19.59:388][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.10-20.19.59:388][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.10-20.19.59:388][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.10-20.19.59:388][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.10-20.19.59:388][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.10-20.19.59:388][  4]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.10-20.19.59:388][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.10-20.19.59:388][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.10-20.19.59:388][  4]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.10-20.19.59:388][  4]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.10-20.19.59:388][  4]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.10-20.19.59:390][  4]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.10-20.19.59:407][  4]LogAudioMixer: Display: Using Audio Hardware Device System (2- TC-HELICON GoXLR Mini)
+[2025.08.10-20.19.59:407][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.10-20.19.59:407][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.10-20.19.59:407][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.10-20.19.59:407][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.08.10-20.19.59:407][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.08.10-20.19.59:409][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.08.10-20.19.59:409][  4]LogInit: FAudioDevice initialized with ID 13.
+[2025.08.10-20.19.59:409][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.08.10-20.19.59:409][  4]LogAudio: Display: Audio Device (ID: 13) registered with world 'Lvl_FirstPerson'.
+[2025.08.10-20.19.59:409][  4]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.08.10-20.19.59:412][  4]LogLoad: Game class is 'GM_FirstPerson_C'
+[2025.08.10-20.19.59:413][  4]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_Lvl_FirstPerson_93RG4RG3I27TZTQ2434BZCCEY) is flushing async loading
+[2025.08.10-20.19.59:413][  4]LogStreaming: Display: FlushAsyncLoading(732,733,734,735,736,737,738,739,740,741,742,743,744,745,746,747,748): 17 QueuedPackages, 0 AsyncPackages
+[2025.08.10-20.20.00:160][  4]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.08.10-13.20.00
+[2025.08.10-20.20.00:165][  4]LogWorld: Bringing up level for play took: 0.017857
+[2025.08.10-20.20.00:167][  4]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2025.08.10-20.20.00:176][  4]PIE: Server logged in
+[2025.08.10-20.20.00:177][  4]PIE: Play in editor total start time 0.879 seconds.
+[2025.08.10-20.20.00:368][  6]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.08.10-20.20.07:269][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-20.20.07:269][535]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-20.20.07:269][535]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.08.10-20.20.07:282][535]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-20.20.07:284][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-20.20.07:284][535]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.10-20.20.07:287][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.10-20.20.07:293][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-20.20.07:329][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-20.20.07:330][535]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.08.10-20.20.07:330][535]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2025.08.10-20.20.07:332][535]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2025.08.10-20.20.07:352][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.08.10-20.20.07:437][536]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2025.08.10-20.20.37:907][186]Cmd: SELECT NONE
+[2025.08.10-20.21.37:547][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.10-20.21.37:599][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.08.10-20.21.37:626][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.08.10-20.21.37:648][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.08.10-20.21.37:663][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.782 ms (total: 1.18 sec)
+[2025.08.10-20.21.39:544][363]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.10-20.21.39:552][363]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.10-20.21.39:553][363]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.08.10-20.21.39:554][363]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 1.972 ms (total: 25.665 ms)
+[2025.08.10-20.21.39:555][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.10-20.21.39:577][363]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-20.21.39:593][363]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.10-20.21.39:595][363]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.173 ms (total: 26.084 ms)
+[2025.08.10-20.21.39:595][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017591s)
+[2025.08.10-20.21.39:595][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.017627s)
+[2025.08.10-20.21.39:617][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.08.10-20.21.39:618][363]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.08.10-20.21.39:619][363]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.10-20.21.39:619][363]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.10-20.21.39:619][363]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.10-20.21.39:619][363]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.10-20.21.39:622][363]LogWorldPartition: Display: WorldPartition initialize took 2.699 ms (total: 111.293 ms)
+[2025.08.10-20.21.39:622][363]LogPlayLevel: PIE: World Init took: (0.004084s)
+[2025.08.10-20.21.39:623][363]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.08.10-20.21.39:623][363]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.10-20.21.39:623][363]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.10-20.21.39:623][363]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.10-20.21.39:623][363]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.10-20.21.39:623][363]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.10-20.21.39:623][363]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.10-20.21.39:623][363]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.10-20.21.39:623][363]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.10-20.21.39:623][363]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.10-20.21.39:623][363]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.10-20.21.39:623][363]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.10-20.21.39:625][363]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.10-20.21.39:642][363]LogAudioMixer: Display: Using Audio Hardware Device System (2- TC-HELICON GoXLR Mini)
+[2025.08.10-20.21.39:642][363]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.10-20.21.39:642][363]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.10-20.21.39:642][363]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.10-20.21.39:643][363]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.08.10-20.21.39:643][363]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.08.10-20.21.39:644][363]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.08.10-20.21.39:644][363]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.08.10-20.21.39:644][363]LogInit: FAudioDevice initialized with ID 14.
+[2025.08.10-20.21.39:644][363]LogAudio: Display: Audio Device (ID: 14) registered with world 'Lvl_FirstPerson'.
+[2025.08.10-20.21.39:644][363]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.08.10-20.21.39:648][363]LogLoad: Game class is 'GM_FirstPerson_C'
+[2025.08.10-20.21.39:648][363]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_Lvl_FirstPerson_93RG4RG3I27TZTQ2434BZCCEY) is flushing async loading
+[2025.08.10-20.21.39:648][363]LogStreaming: Display: FlushAsyncLoading(749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765): 17 QueuedPackages, 0 AsyncPackages
+[2025.08.10-20.21.40:398][363]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.08.10-13.21.40
+[2025.08.10-20.21.40:403][363]LogWorld: Bringing up level for play took: 0.017726
+[2025.08.10-20.21.40:405][363]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.08.10-20.21.40:413][363]PIE: Server logged in
+[2025.08.10-20.21.40:415][363]PIE: Play in editor total start time 0.862 seconds.
+[2025.08.10-20.21.40:607][365]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.08.10-20.21.45:919][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-20.21.45:919][780]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-20.21.45:919][780]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.08.10-20.21.45:932][780]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-20.21.45:934][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-20.21.45:934][780]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.10-20.21.45:936][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.10-20.21.45:942][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-20.21.45:976][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-20.21.45:977][780]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.08.10-20.21.45:977][780]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2025.08.10-20.21.45:979][780]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2025.08.10-20.21.46:000][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.08.10-20.21.46:038][781]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.08.10-20.22.44:803][296]Cmd: DELETE
+[2025.08.10-20.22.44:803][296]Cmd: ACTOR DELETE
+[2025.08.10-20.22.46:682][296]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.08.10-20.22.46:689][296]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.08.10-20.22.46:712][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.08.10-20.22.46:717][296]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.08.10-20.23.11:896][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.08.10-20.23.13:481][593]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.10-20.23.13:723][593]LogSequenceNavigator: Deactivating provider: LevelSequence
+[2025.08.10-20.23.13:727][593]LogSequenceNavigator: Provider unregistered: LevelSequence
+[2025.08.10-20.23.13:777][593]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-20.23.13:777][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-20.23.13:805][593]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Building_Objects/ElevatorAnimation.ElevatorAnimation
+	Asset Type: LevelSequence
+[2025.08.10-20.23.14:343][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.08.10-20.23.14:371][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.08.10-20.23.14:393][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.08.10-20.23.14:605][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.08.10-20.24.35:749][227]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.08.10-20.24.35:749][227]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.08.10-20.24.35:749][227]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_2
+[2025.08.10-20.24.35:750][227]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_2
+[2025.08.10-20.24.42:750][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.08.10-20.24.42:753][ 11]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.08.10-20.24.42:759][ 11]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.08.10-20.24.42:759][ 11]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.08.10-20.24.42:762][ 11]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_A85E4552D68BE78302_2027974505
+[2025.08.10-20.24.42:762][ 11]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_A85E4552D68BE78302_2027974505
+[2025.08.10-20.25.30:955][407]Cmd: DELETE
+[2025.08.10-20.25.30:955][407]Cmd: ACTOR DELETE
+[2025.08.10-20.25.30:958][407]LogEditorActor: Actor ElevatorAnimation is referenced by Lvl_FirstPerson2.
+[2025.08.10-20.25.35:578][407]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.08.10-20.25.35:612][407]LogEditorActor: Deleted Actor: LevelSequenceActor
+[2025.08.10-20.25.35:635][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.08.10-20.25.35:638][407]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.08.10-20.25.37:848][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.10-20.25.37:899][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.08.10-20.25.37:924][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.08.10-20.25.37:949][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.08.10-20.25.38:011][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.08.10-20.25.38:025][611]LogSavePackage: Moving output files for package: /Game/FirstPerson/Lvl_FirstPerson
+[2025.08.10-20.25.38:026][611]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Lvl_FirstPersonD414ECE349E67F64998B8CBEEE5B7587.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/FirstPerson/Lvl_FirstPerson.umap'
+[2025.08.10-20.25.38:044][611]LogFileHelpers: Saving map 'Lvl_FirstPerson' took 0.093
+[2025.08.10-20.25.38:051][611]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/JR/CIKMPOD95N89CKGIKCLQ4X
+[2025.08.10-20.25.38:051][611]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/CIKMPOD95N89CKGIKCLQ4XF55736234717C555BBAE5A840817DD71.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/JR/CIKMPOD95N89CKGIKCLQ4X.uasset'
+[2025.08.10-20.25.38:060][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 211.575 ms (total: 1.40 sec)
+[2025.08.10-20.25.38:077][611]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.10-20.25.38:077][611]LogContentValidation: Enabled validators:
+[2025.08.10-20.25.38:077][611]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.10-20.25.38:077][611]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.10-20.25.38:077][611]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.10-20.25.38:077][611]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.10-20.25.38:077][611]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.10-20.25.38:077][611]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.10-20.25.38:077][611]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.08.10-20.25.38:109][611]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.10-20.25.55:104][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3100.708984
+[2025.08.10-20.25.55:228][481]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.10-20.25.55:228][481]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3100.824219, Update Interval: 326.201355
+[2025.08.10-20.26.26:108][306]LogContentBrowser: Deferred new asset file creation: NewLevelSequence
+[2025.08.10-20.26.26:172][306]LogContentBrowser: Creating deferred item: NewLevelSequence
+[2025.08.10-20.26.26:184][307]LogContentBrowser: Renaming the item being created (Deferred Item: NewLevelSequence).
+[2025.08.10-20.26.34:242][123]LogContentBrowser: Attempting asset rename: NewLevelSequence -> Elevator1Animation
+[2025.08.10-20.26.34:244][123]LogContentBrowser: End creating deferred item NewLevelSequence
+[2025.08.10-20.26.38:301][501]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Building_Objects/Elevator1Animation.Elevator1Animation
+[2025.08.10-20.26.38:371][501]LogSequenceNavigator: Activating provider: LevelSequence
+[2025.08.10-20.26.38:371][501]LogSequenceNavigator: Loading provider state: LevelSequence
+[2025.08.10-20.26.38:407][501]LogSequenceNavigator: Tool instance 'LevelSequenceEditor' provider 'LevelSequence' registered
+[2025.08.10-20.27.28:383][663]Cmd: TRANSACTION UNDO
+[2025.08.10-20.27.28:384][663]LogEditorTransaction: Undo Move Keys or Sections
+[2025.08.10-20.28.31:541][132]Cmd: TRANSACTION UNDO
+[2025.08.10-20.28.31:541][132]LogEditorTransaction: Undo Move Keys or Sections
+[2025.08.10-20.28.31:764][143]Cmd: TRANSACTION UNDO
+[2025.08.10-20.28.31:764][143]LogEditorTransaction: Undo Move Keys or Sections
+[2025.08.10-20.28.31:929][150]Cmd: TRANSACTION UNDO
+[2025.08.10-20.28.31:929][150]LogEditorTransaction: Undo Move Keys or Sections
+[2025.08.10-20.28.32:101][160]Cmd: TRANSACTION UNDO
+[2025.08.10-20.28.32:101][160]LogEditorTransaction: Undo Move Keys or Sections
+[2025.08.10-20.28.32:259][172]Cmd: TRANSACTION UNDO
+[2025.08.10-20.28.32:259][172]LogEditorTransaction: Undo Move Keys or Sections
+[2025.08.10-20.28.32:413][184]Cmd: TRANSACTION UNDO
+[2025.08.10-20.28.32:413][184]LogEditorTransaction: Undo Move Keys or Sections
+[2025.08.10-20.28.32:578][197]Cmd: TRANSACTION UNDO
+[2025.08.10-20.28.32:578][197]LogEditorTransaction: Undo Move Keys or Sections
+[2025.08.10-20.28.32:733][209]Cmd: TRANSACTION UNDO
+[2025.08.10-20.28.32:733][209]LogEditorTransaction: Undo Move Keys or Sections
+[2025.08.10-20.28.33:029][234]Cmd: TRANSACTION UNDO
+[2025.08.10-20.28.33:029][234]LogEditorTransaction: Undo Move Keys or Sections
+[2025.08.10-20.28.33:425][268]Cmd: TRANSACTION UNDO
+[2025.08.10-20.28.33:426][268]LogEditorTransaction: Undo Move Keys or Sections
+[2025.08.10-20.28.33:810][301]Cmd: TRANSACTION UNDO
+[2025.08.10-20.28.33:810][301]LogEditorTransaction: Undo Move Keys or Sections
+[2025.08.10-20.28.34:231][336]Cmd: TRANSACTION UNDO
+[2025.08.10-20.28.34:231][336]LogEditorTransaction: Undo Move Keys or Sections
+[2025.08.10-20.28.34:583][366]Cmd: TRANSACTION UNDO
+[2025.08.10-20.28.34:583][366]LogEditorTransaction: Undo Add Keys at Current Time
+[2025.08.10-20.29.43:420][194]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Building_Objects/Elevator1Animation.Elevator1Animation
+[2025.08.10-20.29.43:421][194]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Building_Objects/Elevator1Animation.Elevator1Animation
+[2025.08.10-20.29.43:421][194]LogActorFactory: Actor Factory spawned LevelSequence /Game/Building_Objects/Elevator1Animation.Elevator1Animation as actor: LevelSequenceActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LevelSequenceActor_1
+[2025.08.10-20.29.43:421][194]LogActorFactory: Actor Factory spawned LevelSequence /Game/Building_Objects/Elevator1Animation.Elevator1Animation as actor: LevelSequenceActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LevelSequenceActor_1
+[2025.08.10-20.29.45:423][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.08.10-20.29.45:427][386]LogEditorActor: Deleted 0 Actors (0.045 secs)
+[2025.08.10-20.29.45:433][386]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Building_Objects/Elevator1Animation.Elevator1Animation
+[2025.08.10-20.29.45:433][386]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Building_Objects/Elevator1Animation.Elevator1Animation
+[2025.08.10-20.29.45:436][386]LogActorFactory: Actor Factory spawned LevelSequence /Game/Building_Objects/Elevator1Animation.Elevator1Animation as actor: LevelSequenceActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LevelSequenceActor_UAID_A85E4552D68BE88302_1256906682
+[2025.08.10-20.29.45:436][386]LogActorFactory: Actor Factory spawned LevelSequence /Game/Building_Objects/Elevator1Animation.Elevator1Animation as actor: LevelSequenceActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LevelSequenceActor_UAID_A85E4552D68BE88302_1256906682
+[2025.08.10-20.29.47:949][613]LogStreaming: Display: FlushAsyncLoading(766): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.10-20.29.49:265][749]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.Lvl_FirstPerson
+[2025.08.10-20.29.49:266][749]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.08.10-20.30.32:046][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.08.10-20.30.32:698][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.10-20.30.32:779][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.08.10-20.30.32:795][850]LogSavePackage: Moving output files for package: /Game/FirstPerson/Lvl_FirstPerson
+[2025.08.10-20.30.32:796][850]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Lvl_FirstPersonF21064BB4794AB79632BCC9458B33B0D.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/FirstPerson/Lvl_FirstPerson.umap'
+[2025.08.10-20.30.32:814][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.10-20.30.32:821][850]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/JR/CIKMPOD95N89CKGIKCLQ4X
+[2025.08.10-20.30.32:822][850]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/CIKMPOD95N89CKGIKCLQ4X770F16E94835522CEDD983826C5A9D94.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/JR/CIKMPOD95N89CKGIKCLQ4X.uasset'
+[2025.08.10-20.30.32:831][850]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/1W/J9XX677JBD2YDCC08AHR5X
+[2025.08.10-20.30.32:831][850]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/J9XX677JBD2YDCC08AHR5XB97623184621F3AE8B82A69D0C424950.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/1W/J9XX677JBD2YDCC08AHR5X.uasset'
+[2025.08.10-20.30.32:836][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 21.520 ms (total: 1.42 sec)
+[2025.08.10-20.30.32:837][850]LogFileHelpers: Saving map 'Lvl_FirstPerson' took 0.119
+[2025.08.10-20.30.32:843][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.602 ms (total: 1.56 sec)
+[2025.08.10-20.30.32:866][850]LogContentValidation: Display: Starting to validate 3 assets
+[2025.08.10-20.30.32:866][850]LogContentValidation: Enabled validators:
+[2025.08.10-20.30.32:866][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.10-20.30.32:866][850]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.10-20.30.32:866][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.10-20.30.32:866][850]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.10-20.30.32:866][850]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.10-20.30.32:866][850]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.10-20.30.32:866][850]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.08.10-20.30.32:888][850]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.10-20.30.34:748][ 43]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.10-20.30.34:756][ 43]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.10-20.30.34:756][ 43]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.08.10-20.30.34:758][ 43]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 2.029 ms (total: 27.695 ms)
+[2025.08.10-20.30.34:758][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.10-20.30.34:758][ 43]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-20.30.34:774][ 43]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.10-20.30.34:777][ 43]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.334 ms (total: 28.419 ms)
+[2025.08.10-20.30.34:777][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018861s)
+[2025.08.10-20.30.34:777][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.018886s)
+[2025.08.10-20.30.34:800][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.08.10-20.30.34:803][ 43]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.08.10-20.30.34:804][ 43]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.10-20.30.34:804][ 43]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.10-20.30.34:804][ 43]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.10-20.30.34:804][ 43]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.10-20.30.34:807][ 43]LogWorldPartition: Display: WorldPartition initialize took 2.870 ms (total: 114.164 ms)
+[2025.08.10-20.30.34:807][ 43]LogPlayLevel: PIE: World Init took: (0.004352s)
+[2025.08.10-20.30.34:808][ 43]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.08.10-20.30.34:808][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.10-20.30.34:808][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.10-20.30.34:808][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.10-20.30.34:808][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.10-20.30.34:808][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.10-20.30.34:808][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.10-20.30.34:808][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.10-20.30.34:808][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.10-20.30.34:808][ 43]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.10-20.30.34:808][ 43]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.10-20.30.34:808][ 43]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.10-20.30.34:809][ 43]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.10-20.30.34:827][ 43]LogAudioMixer: Display: Using Audio Hardware Device System (2- TC-HELICON GoXLR Mini)
+[2025.08.10-20.30.34:827][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.10-20.30.34:827][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.10-20.30.34:827][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.10-20.30.34:828][ 43]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.08.10-20.30.34:828][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.08.10-20.30.34:830][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.08.10-20.30.34:830][ 43]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.08.10-20.30.34:830][ 43]LogInit: FAudioDevice initialized with ID 15.
+[2025.08.10-20.30.34:830][ 43]LogAudio: Display: Audio Device (ID: 15) registered with world 'Lvl_FirstPerson'.
+[2025.08.10-20.30.34:830][ 43]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.08.10-20.30.34:833][ 43]LogLoad: Game class is 'GM_FirstPerson_C'
+[2025.08.10-20.30.34:834][ 43]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_Lvl_FirstPerson_93RG4RG3I27TZTQ2434BZCCEY) is flushing async loading
+[2025.08.10-20.30.34:834][ 43]LogStreaming: Display: FlushAsyncLoading(769,770,771,772,773,774,775,776,777,778,779,780,781,782,783,784,785): 17 QueuedPackages, 0 AsyncPackages
+[2025.08.10-20.30.35:630][ 43]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.08.10-13.30.35
+[2025.08.10-20.30.35:635][ 43]LogWorld: Bringing up level for play took: 0.018630
+[2025.08.10-20.30.35:637][ 43]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.08.10-20.30.35:645][ 43]PIE: Server logged in
+[2025.08.10-20.30.35:647][ 43]PIE: Play in editor total start time 0.892 seconds.
+[2025.08.10-20.30.35:860][ 45]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.08.10-20.30.51:464][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-20.30.51:464][224]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-20.30.51:464][224]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.08.10-20.30.51:477][224]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-20.30.51:479][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-20.30.51:479][224]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.10-20.30.51:482][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.10-20.30.51:489][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-20.30.51:526][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-20.30.51:526][224]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.08.10-20.30.51:526][224]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.08.10-20.30.51:528][224]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.08.10-20.30.51:552][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.08.10-20.30.51:597][225]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.08.10-20.31.52:224][936]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3457.831055
+[2025.08.10-20.31.52:353][949]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.10-20.31.52:353][949]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3457.949463, Update Interval: 339.244354
+[2025.08.10-20.31.54:693][136]Cmd: EDIT COPY
+[2025.08.10-20.31.56:929][344]Cmd: EDIT PASTE
+[2025.08.10-20.32.24:290][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.10-20.32.24:313][745]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Building_Objects/Elevator1Animation] ([1] browsable assets)...
+[2025.08.10-20.32.24:313][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Building_Objects/Elevator1Animation]
+[2025.08.10-20.32.24:322][745]LogSavePackage: Moving output files for package: /Game/Building_Objects/Elevator1Animation
+[2025.08.10-20.32.24:323][745]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Elevator1AnimationD5981E86477B97C12A4F16B7BBADC0F1.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/Building_Objects/Elevator1Animation.uasset'
+[2025.08.10-20.32.24:330][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.384 ms (total: 1.60 sec)
+[2025.08.10-20.32.24:349][745]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.10-20.32.24:349][745]LogContentValidation: Enabled validators:
+[2025.08.10-20.32.24:349][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.10-20.32.24:349][745]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.10-20.32.24:349][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.10-20.32.24:349][745]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.10-20.32.24:349][745]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.10-20.32.24:349][745]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.10-20.32.24:350][745]AssetCheck: /Game/Building_Objects/Elevator1Animation Validating asset
+[2025.08.10-20.32.24:376][745]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.10-20.32.54:841][469]LogContentBrowser: Deferred new asset file creation: NewLevelSequence
+[2025.08.10-20.32.54:849][469]LogContentBrowser: Creating deferred item: NewLevelSequence
+[2025.08.10-20.32.54:862][470]LogContentBrowser: Renaming the item being created (Deferred Item: NewLevelSequence).
+[2025.08.10-20.33.01:284][111]LogContentBrowser: Attempting asset rename: NewLevelSequence -> Elevator2Animation
+[2025.08.10-20.33.01:286][111]LogContentBrowser: End creating deferred item NewLevelSequence
+[2025.08.10-20.33.03:748][335]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Building_Objects/Elevator2Animation.Elevator2Animation
+[2025.08.10-20.33.03:773][335]LogSequenceNavigator: Deactivating provider: LevelSequence
+[2025.08.10-20.33.03:777][335]LogSequenceNavigator: Provider unregistered: LevelSequence
+[2025.08.10-20.33.03:873][335]LogSequenceNavigator: Activating provider: LevelSequence
+[2025.08.10-20.33.03:873][335]LogSequenceNavigator: Loading provider state: LevelSequence
+[2025.08.10-20.33.03:910][335]LogSequenceNavigator: Tool instance 'LevelSequenceEditor' provider 'LevelSequence' registered
+[2025.08.10-20.33.55:674][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.10-20.33.55:736][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.08.10-20.33.55:763][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.08.10-20.33.55:784][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.08.10-20.33.55:794][907]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/WC/RU5UMRADLRY4EEY94WA0BP
+[2025.08.10-20.33.55:794][907]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/RU5UMRADLRY4EEY94WA0BP367D0F7E4AFB6285A78D30836BFCDBD0.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/WC/RU5UMRADLRY4EEY94WA0BP.uasset'
+[2025.08.10-20.33.55:804][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.743 ms (total: 1.73 sec)
+[2025.08.10-20.33.55:822][907]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.10-20.33.55:822][907]LogContentValidation: Enabled validators:
+[2025.08.10-20.33.55:822][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.10-20.33.55:822][907]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.10-20.33.55:822][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.10-20.33.55:822][907]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.10-20.33.55:822][907]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.10-20.33.55:822][907]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.10-20.33.55:822][907]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.08.10-20.33.55:861][907]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.10-20.34.07:982][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.10-20.34.08:031][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.08.10-20.34.08:057][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.08.10-20.34.08:080][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.08.10-20.34.08:089][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.712 ms (total: 1.84 sec)
+[2025.08.10-20.34.08:995][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.10-20.34.09:019][103]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Building_Objects/Elevator2Animation] ([1] browsable assets)...
+[2025.08.10-20.34.09:019][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Building_Objects/Elevator2Animation]
+[2025.08.10-20.34.09:028][103]LogSavePackage: Moving output files for package: /Game/Building_Objects/Elevator2Animation
+[2025.08.10-20.34.09:028][103]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Elevator2AnimationD62EFCE94D7DA499079BBDA7AAA4A96F.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/Building_Objects/Elevator2Animation.uasset'
+[2025.08.10-20.34.09:037][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.017 ms (total: 1.88 sec)
+[2025.08.10-20.34.09:051][103]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.10-20.34.09:051][103]LogContentValidation: Enabled validators:
+[2025.08.10-20.34.09:051][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.10-20.34.09:051][103]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.10-20.34.09:051][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.10-20.34.09:051][103]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.10-20.34.09:051][103]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.10-20.34.09:051][103]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.10-20.34.09:051][103]AssetCheck: /Game/Building_Objects/Elevator2Animation Validating asset
+[2025.08.10-20.34.09:073][103]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.10-20.34.17:873][956]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Building_Objects/Elevator2Animation.Elevator2Animation
+[2025.08.10-20.34.17:873][956]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Building_Objects/Elevator2Animation.Elevator2Animation
+[2025.08.10-20.34.17:873][956]LogActorFactory: Actor Factory spawned LevelSequence /Game/Building_Objects/Elevator2Animation.Elevator2Animation as actor: LevelSequenceActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LevelSequenceActor_2
+[2025.08.10-20.34.17:874][956]LogActorFactory: Actor Factory spawned LevelSequence /Game/Building_Objects/Elevator2Animation.Elevator2Animation as actor: LevelSequenceActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LevelSequenceActor_2
+[2025.08.10-20.34.18:597][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.08.10-20.34.18:599][ 11]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.08.10-20.34.18:605][ 11]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Building_Objects/Elevator2Animation.Elevator2Animation
+[2025.08.10-20.34.18:605][ 11]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/Building_Objects/Elevator2Animation.Elevator2Animation
+[2025.08.10-20.34.18:608][ 11]LogActorFactory: Actor Factory spawned LevelSequence /Game/Building_Objects/Elevator2Animation.Elevator2Animation as actor: LevelSequenceActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LevelSequenceActor_UAID_A85E4552D68BE88302_1530078684
+[2025.08.10-20.34.18:608][ 11]LogActorFactory: Actor Factory spawned LevelSequence /Game/Building_Objects/Elevator2Animation.Elevator2Animation as actor: LevelSequenceActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.LevelSequenceActor_UAID_A85E4552D68BE88302_1530078684
+[2025.08.10-20.35.50:957][602]LogDerivedDataCache: C:/Users/aeake/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.10-20.37.57:450][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.08.10-20.37.58:546][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.10-20.37.58:623][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.08.10-20.37.58:641][397]LogSavePackage: Moving output files for package: /Game/FirstPerson/Lvl_FirstPerson
+[2025.08.10-20.37.58:642][397]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Lvl_FirstPerson80B5672D48A20F63AF324A85288926D0.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/FirstPerson/Lvl_FirstPerson.umap'
+[2025.08.10-20.37.58:659][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.10-20.37.58:665][397]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/4Q/F34ALWZNE1D2AQWWKKVSTJ
+[2025.08.10-20.37.58:666][397]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/F34ALWZNE1D2AQWWKKVSTJE6F75F2E4B8800861EBDA3AACDF046B2.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/4Q/F34ALWZNE1D2AQWWKKVSTJ.uasset'
+[2025.08.10-20.37.58:670][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.865 ms (total: 1.89 sec)
+[2025.08.10-20.37.58:671][397]LogFileHelpers: Saving map 'Lvl_FirstPerson' took 0.107
+[2025.08.10-20.37.58:676][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.663 ms (total: 2.02 sec)
+[2025.08.10-20.37.58:696][397]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.10-20.37.58:696][397]LogContentValidation: Enabled validators:
+[2025.08.10-20.37.58:696][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.10-20.37.58:696][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.10-20.37.58:696][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.10-20.37.58:696][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.10-20.37.58:696][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.10-20.37.58:696][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.10-20.37.58:696][397]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.08.10-20.37.58:718][397]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.10-20.38.01:009][640]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.10-20.38.01:017][640]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.10-20.38.01:018][640]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.08.10-20.38.01:019][640]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 1.996 ms (total: 29.692 ms)
+[2025.08.10-20.38.01:020][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.10-20.38.01:060][640]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-20.38.01:075][640]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.10-20.38.01:078][640]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.256 ms (total: 30.676 ms)
+[2025.08.10-20.38.01:078][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018155s)
+[2025.08.10-20.38.01:078][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.018196s)
+[2025.08.10-20.38.01:100][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.08.10-20.38.01:104][640]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.08.10-20.38.01:105][640]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.10-20.38.01:105][640]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.10-20.38.01:105][640]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.10-20.38.01:105][640]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.10-20.38.01:108][640]LogWorldPartition: Display: WorldPartition initialize took 2.799 ms (total: 116.964 ms)
+[2025.08.10-20.38.01:108][640]LogPlayLevel: PIE: World Init took: (0.004245s)
+[2025.08.10-20.38.01:109][640]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.08.10-20.38.01:109][640]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.10-20.38.01:109][640]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.10-20.38.01:109][640]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.10-20.38.01:109][640]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.10-20.38.01:109][640]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.10-20.38.01:109][640]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.10-20.38.01:109][640]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.10-20.38.01:109][640]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.10-20.38.01:109][640]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.10-20.38.01:109][640]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.10-20.38.01:109][640]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.10-20.38.01:111][640]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.10-20.38.01:129][640]LogAudioMixer: Display: Using Audio Hardware Device System (2- TC-HELICON GoXLR Mini)
+[2025.08.10-20.38.01:129][640]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.10-20.38.01:129][640]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.10-20.38.01:129][640]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.10-20.38.01:129][640]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.08.10-20.38.01:129][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.08.10-20.38.01:131][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.08.10-20.38.01:131][640]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.08.10-20.38.01:131][640]LogInit: FAudioDevice initialized with ID 16.
+[2025.08.10-20.38.01:131][640]LogAudio: Display: Audio Device (ID: 16) registered with world 'Lvl_FirstPerson'.
+[2025.08.10-20.38.01:131][640]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.08.10-20.38.01:134][640]LogLoad: Game class is 'GM_FirstPerson_C'
+[2025.08.10-20.38.01:135][640]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_Lvl_FirstPerson_93RG4RG3I27TZTQ2434BZCCEY) is flushing async loading
+[2025.08.10-20.38.01:135][640]LogStreaming: Display: FlushAsyncLoading(786,787,788,789,790,791,792,793,794,795,796,797,798,799,800,801,802): 17 QueuedPackages, 0 AsyncPackages
+[2025.08.10-20.38.01:889][640]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.08.10-13.38.01
+[2025.08.10-20.38.01:894][640]LogWorld: Bringing up level for play took: 0.017646
+[2025.08.10-20.38.01:896][640]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.08.10-20.38.01:904][640]PIE: Server logged in
+[2025.08.10-20.38.01:906][640]PIE: Play in editor total start time 0.889 seconds.
+[2025.08.10-20.38.02:108][642]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.08.10-20.38.18:496][929]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3844.106445
+[2025.08.10-20.38.18:624][939]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.10-20.38.18:624][939]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3844.221924, Update Interval: 309.624329
+[2025.08.10-20.38.57:840][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-20.38.57:840][104]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.10-20.38.57:840][104]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.08.10-20.38.57:853][104]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-20.38.57:855][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-20.38.57:855][104]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.10-20.38.57:858][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.10-20.38.57:864][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-20.38.57:894][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.10-20.38.57:895][104]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.08.10-20.38.57:895][104]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.08.10-20.38.57:897][104]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.08.10-20.38.57:916][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.08.10-20.38.57:957][105]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.08.10-20.39.07:847][ 28]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Building_Objects/Elevator_BP.Elevator_BP
+[2025.08.10-20.39.07:847][ 28]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.08.10-20.39.10:907][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.10-20.39.10:928][253]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Building_Objects/Elevator_BP] ([2] browsable assets)...
+[2025.08.10-20.39.10:928][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/Building_Objects/Elevator_BP]
+[2025.08.10-20.39.10:943][253]LogSavePackage: Moving output files for package: /Game/Building_Objects/Elevator_BP
+[2025.08.10-20.39.10:944][253]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Elevator_BPE2FF9CBF4DC92CD14B266E82EC21709C.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/Building_Objects/Elevator_BP.uasset'
+[2025.08.10-20.39.10:952][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.105 ms (total: 2.07 sec)
+[2025.08.10-20.39.10:968][253]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.10-20.39.10:968][253]LogContentValidation: Enabled validators:
+[2025.08.10-20.39.10:968][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.10-20.39.10:968][253]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.10-20.39.10:968][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.10-20.39.10:968][253]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.10-20.39.10:968][253]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.10-20.39.10:968][253]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.10-20.39.10:968][253]AssetCheck: /Game/Building_Objects/Elevator_BP Validating asset
+[2025.08.10-20.39.10:997][253]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.10-20.39.12:806][405]LogSlate: Window 'Elevator_BP' being destroyed
+[2025.08.10-20.39.12:811][405]LogSlate: Window 'Elevator_BP' being destroyed
+[2025.08.10-20.39.12:815][405]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-20.39.12:815][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-20.39.12:898][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
