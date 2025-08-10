@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GameDevGroup/GameDevGroup/FirstPersonShooter/Content/Weapons/GrenadeLauncher_BP.uasset",
+				"D:/GameDevGroup/GameDevGroup/FirstPersonShooter/Content/Weapons/BP_GrenadeLauncher.uasset",
+				"D:/GameDevGroup/GameDevGroup/FirstPersonShooter/Content/Weapons/BP_Pistol.uasset",
+				"D:/GameDevGroup/GameDevGroup/FirstPersonShooter/Content/Weapons/BP_Rifle.uasset",
+				"D:/GameDevGroup/GameDevGroup/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/74/ZJWVB3HXEJ25CQWEPI39BC.uasset",
 				"C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/Pickups/Materials/RedPickup.uasset",
 				"C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/Pickups/HealthPickup.uasset",
 				"C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
