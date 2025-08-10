@@ -51,11 +51,11 @@ Basic level layout blocked out - Completed ✅
 
 ## ✅ Beta Goals
 
-All 3 virus enemies with full movement and behavior
+All 2 virus enemies with full movement and behavior
 
 All elevators and teleporters functional
 
-9 total pickups in place with effects
+2 total pickups in place with effects
 
 Final map layout complete
 
