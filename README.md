@@ -184,3 +184,11 @@ Acknowledged (In Progress) – Assigned to a team member for investigation
 Resolved (Done) – Fixed, confirmed in testing, and marked as complete
 
 A running changelog will document all resolved bugs and who resolved them.
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+
+Module Six Project Log - Team Reflection 📈
