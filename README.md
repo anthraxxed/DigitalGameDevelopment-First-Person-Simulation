@@ -53,7 +53,7 @@ Basic level layout blocked out - Completed ✅
 
 All 3 virus enemies with full movement and behavior
 
-All elevators, jump pads, and teleporters functional
+All elevators and teleporters functional
 
 9 total pickups in place with effects
 
@@ -83,7 +83,7 @@ Pull requests will be used for major changes with peer review before merging
 
 ## 👥 Team Contributions
 
-Joe Benavidez – Level design layout, player spawn system, jump pad mechanics Week 2
+Joe Benavidez – Level design layout, player spawn system
 https://github.com/anthraxxed
 
 Eaker Tyler – Virus AI logic and animations, elevator movement and interaction Week 3
@@ -184,3 +184,11 @@ Acknowledged (In Progress) – Assigned to a team member for investigation
 Resolved (Done) – Fixed, confirmed in testing, and marked as complete
 
 A running changelog will document all resolved bugs and who resolved them.
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+
+Module Six Project Log - Team Reflection 📈
