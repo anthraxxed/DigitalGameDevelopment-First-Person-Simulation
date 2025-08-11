@@ -3889,3 +3889,1266 @@ Make sure '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCh
 [2025.08.11-04.09.29:390][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.08.11-04.09.29:408][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
 [2025.08.11-04.09.29:456][892]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.08.11-04.12.34:363][541]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.08.11-04.12.34:395][542]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.08.11-04.12.34:424][543]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.08.11-04.12.34:453][544]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.08.11-04.12.34:481][545]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.08.11-04.12.34:604][550]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.08.11-04.12.34:630][551]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.08.11-04.12.34:766][557]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.08.11-04.12.34:792][558]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.08.11-04.12.34:899][559]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.08.11-04.12.34:909][559]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.08.11-04.12.34:996][560]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.08.11-04.12.35:032][561]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.08.11-04.12.35:102][562]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.08.11-04.12.35:149][563]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.08.11-04.12.35:191][564]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.08.11-04.12.35:307][569]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Zombie_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_53
+	Function /Game/Zombies_BP/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0082
+[2025.08.11-04.12.35:700][596]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.Lvl_FirstPerson
+[2025.08.11-04.12.35:700][596]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.08.11-04.13.14:738][ 80]LogBlueprint: Error: [AssetLog] C:\Users\aeake\Documents\Unreal Projects\DigitalGameDevelopment-First-Person-Simulation\FirstPersonShooter\Content\FirstPerson\Lvl_FirstPerson.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_FPShooter  to imply a specific type.
+[2025.08.11-04.13.14:739][ 80]LogBlueprint: Error: [AssetLog] C:\Users\aeake\Documents\Unreal Projects\DigitalGameDevelopment-First-Person-Simulation\FirstPersonShooter\Content\FirstPerson\Lvl_FirstPerson.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_FPShooter  to imply a specific type.
+[2025.08.11-04.13.14:739][ 80]LogBlueprint: Error: [AssetLog] C:\Users\aeake\Documents\Unreal Projects\DigitalGameDevelopment-First-Person-Simulation\FirstPersonShooter\Content\FirstPerson\Lvl_FirstPerson.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.08.11-04.13.14:739][ 80]LogBlueprint: Error: [AssetLog] C:\Users\aeake\Documents\Unreal Projects\DigitalGameDevelopment-First-Person-Simulation\FirstPersonShooter\Content\FirstPerson\Lvl_FirstPerson.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2025.08.11-04.13.14:743][ 80]LogStreaming: Display: FlushAsyncLoading(689): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.11-04.13.14:815][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.08.11-04.13.33:202][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.08.11-04.13.34:209][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-04.13.34:301][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.08.11-04.13.34:319][732]LogSavePackage: Moving output files for package: /Game/FirstPerson/Lvl_FirstPerson
+[2025.08.11-04.13.34:320][732]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Lvl_FirstPersonFC26C5A543532227AB3689B76BDE1029.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/FirstPerson/Lvl_FirstPerson.umap'
+[2025.08.11-04.13.34:344][732]LogFileHelpers: All files are already saved.
+[2025.08.11-04.13.34:345][732]LogFileHelpers: Saving map 'Lvl_FirstPerson' took 0.119
+[2025.08.11-04.13.34:350][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.354 ms (total: 1.09 sec)
+[2025.08.11-04.13.34:367][732]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-04.13.34:367][732]LogContentValidation: Enabled validators:
+[2025.08.11-04.13.34:367][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-04.13.34:367][732]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-04.13.34:367][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-04.13.34:367][732]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-04.13.34:367][732]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-04.13.34:367][732]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-04.13.34:368][732]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.08.11-04.13.38:025][ 94]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.11-04.13.38:035][ 94]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.11-04.13.38:035][ 94]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.08.11-04.13.38:037][ 94]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 2.095 ms (total: 19.451 ms)
+[2025.08.11-04.13.38:037][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.11-04.13.38:075][ 94]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.11-04.13.38:093][ 94]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.11-04.13.38:095][ 94]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.515 ms (total: 23.158 ms)
+[2025.08.11-04.13.38:095][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020132s)
+[2025.08.11-04.13.38:095][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.020164s)
+[2025.08.11-04.13.38:119][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.08.11-04.13.38:121][ 94]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.08.11-04.13.38:122][ 94]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.11-04.13.38:122][ 94]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.11-04.13.38:122][ 94]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.11-04.13.38:122][ 94]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.11-04.13.38:125][ 94]LogWorldPartition: Display: WorldPartition initialize took 3.012 ms (total: 719.132 ms)
+[2025.08.11-04.13.38:125][ 94]LogPlayLevel: PIE: World Init took: (0.004353s)
+[2025.08.11-04.13.38:126][ 94]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.08.11-04.13.38:126][ 94]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.11-04.13.38:126][ 94]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.11-04.13.38:126][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.11-04.13.38:126][ 94]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.11-04.13.38:126][ 94]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.11-04.13.38:126][ 94]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.11-04.13.38:126][ 94]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.11-04.13.38:126][ 94]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.11-04.13.38:126][ 94]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.11-04.13.38:126][ 94]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.11-04.13.38:126][ 94]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.11-04.13.38:128][ 94]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.11-04.13.38:145][ 94]LogAudioMixer: Display: Using Audio Hardware Device System (2- TC-HELICON GoXLR Mini)
+[2025.08.11-04.13.38:146][ 94]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.11-04.13.38:146][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.11-04.13.38:146][ 94]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.11-04.13.38:146][ 94]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.08.11-04.13.38:146][ 94]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.08.11-04.13.38:148][ 94]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.08.11-04.13.38:148][ 94]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.08.11-04.13.38:148][ 94]LogInit: FAudioDevice initialized with ID 10.
+[2025.08.11-04.13.38:148][ 94]LogAudio: Display: Audio Device (ID: 10) registered with world 'Lvl_FirstPerson'.
+[2025.08.11-04.13.38:148][ 94]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.08.11-04.13.38:151][ 94]LogLoad: Game class is 'GM_Shooter_C'
+[2025.08.11-04.13.38:151][ 94]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_Lvl_FirstPerson_93RG4RG3I27TZTQ2434BZCCEY) is flushing async loading
+[2025.08.11-04.13.38:151][ 94]LogStreaming: Display: FlushAsyncLoading(690,691,692,693,694,695,696,697,698,699,700,701,702,703,704,705,706): 17 QueuedPackages, 0 AsyncPackages
+[2025.08.11-04.13.38:910][ 94]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.13.38:917][ 94]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.13.38:923][ 94]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.13.38:924][ 94]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.13.38:925][ 94]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.13.38:925][ 94]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.13.38:932][ 94]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.13.38:939][ 94]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.13.38:940][ 94]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.13.38:946][ 94]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.13.38:953][ 94]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.13.38:961][ 94]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.13.38:967][ 94]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.13.38:968][ 94]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.13.38:974][ 94]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.13.38:975][ 94]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.13.38:978][ 94]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.08.10-21.13.38
+[2025.08.11-04.13.38:983][ 94]LogWorld: Bringing up level for play took: 0.076159
+[2025.08.11-04.13.38:986][ 94]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.08.11-04.13.38:994][ 94]PIE: Server logged in
+[2025.08.11-04.13.38:996][ 94]PIE: Play in editor total start time 0.962 seconds.
+[2025.08.11-04.13.39:216][ 96]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.08.11-04.14.14:901][298]LogBlueprintUserMessages: [BP_FPShooter_C_0] 40.0
+[2025.08.11-04.14.17:161][437]LogBlueprintUserMessages: [BP_FPShooter_C_0] 30.0
+[2025.08.11-04.14.26:138][985]LogBlueprintUserMessages: [BP_FPShooter_C_0] 20.0
+[2025.08.11-04.14.36:014][612]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1343.174805
+[2025.08.11-04.14.36:119][619]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.11-04.14.36:119][619]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1343.265015, Update Interval: 349.548035
+[2025.08.11-04.14.50:424][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-04.14.50:425][528]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.11-04.14.50:425][528]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.08.11-04.14.50:437][528]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-04.14.50:441][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-04.14.50:441][528]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.11-04.14.50:443][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.11-04.14.50:450][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-04.14.50:476][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-04.14.50:478][528]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.08.11-04.14.50:478][528]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.08.11-04.14.50:480][528]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.08.11-04.14.50:506][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.08.11-04.14.50:588][529]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.08.11-04.15.38:508][219]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.08.11-04.15.38:513][219]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.08.11-04.15.38:520][219]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.08.11-04.15.38:543][220]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.08.11-04.15.49:183][183]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WP_Objective
+[2025.08.11-04.15.49:191][183]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.08.11-04.15.51:105][340]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIs/WP_Objective.WP_Objective
+[2025.08.11-04.15.51:105][340]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.08.11-04.15.51:113][340]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.08.11-04.16.36:838][336]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Variant_Shooter/UI/UI_Overlay.UI_Overlay
+[2025.08.11-04.16.36:838][336]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.08.11-04.16.36:847][336]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.08.11-04.16.41:695][610]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Variant_Shooter/UI/UI_WeaponCounter.UI_WeaponCounter
+[2025.08.11-04.16.41:695][610]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.08.11-04.16.41:703][610]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.08.11-04.16.43:693][700]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-04.16.43:693][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-04.16.43:703][700]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-04.16.43:703][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-04.16.43:819][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.08.11-04.17.19:038][613]Cmd: TRANSACTION UNDO
+[2025.08.11-04.17.19:038][613]LogEditorTransaction: Undo Paste clipboard contents
+[2025.08.11-04.19.07:284][354]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.11-04.19.07:353][355]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.11-04.19.07:363][355]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.11-04.19.07:432][356]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.11-04.19.07:437][356]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.11-04.19.07:501][357]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.11-04.19.07:579][358]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.11-04.19.07:585][358]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.11-04.19.07:655][359]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.11-04.19.07:749][361]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.11-04.19.07:819][362]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.11-04.19.07:913][364]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.11-04.19.07:975][365]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.08.11-04.19.57:991][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.08.11-04.19.59:056][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-04.19.59:077][111]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIs/WP_Objective] ([2] browsable assets)...
+[2025.08.11-04.19.59:080][111]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIs/WP_Objective.WP_Objective]
+[2025.08.11-04.19.59:080][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIs/WP_Objective]
+[2025.08.11-04.19.59:092][111]LogSavePackage: Moving output files for package: /Game/UIs/WP_Objective
+[2025.08.11-04.19.59:092][111]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/WP_Objective9305FB6E42F0ED3A0E330EB252A7632B.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/UIs/WP_Objective.uasset'
+[2025.08.11-04.19.59:103][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.455 ms (total: 1.14 sec)
+[2025.08.11-04.19.59:123][111]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-04.19.59:123][111]LogContentValidation: Enabled validators:
+[2025.08.11-04.19.59:123][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-04.19.59:123][111]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-04.19.59:123][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-04.19.59:123][111]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-04.19.59:123][111]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-04.19.59:123][111]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-04.19.59:123][111]AssetCheck: /Game/UIs/WP_Objective Validating asset
+[2025.08.11-04.19.59:157][111]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.11-04.20.03:967][357]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-04.20.03:967][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-04.20.04:062][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.08.11-04.20.42:127][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1709.283691
+[2025.08.11-04.20.42:264][513]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.11-04.20.42:264][513]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1709.403564, Update Interval: 303.667725
+[2025.08.11-04.20.51:405][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.11-04.20.52:476][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-04.20.52:497][ 65]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter] ([2] browsable assets)...
+[2025.08.11-04.20.52:547][ 65]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter.BP_FPShooter]
+[2025.08.11-04.20.52:547][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter]
+[2025.08.11-04.20.52:590][ 65]LogSavePackage: Moving output files for package: /Game/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter
+[2025.08.11-04.20.52:591][ 65]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/BP_FPShooter2BEE5FB645862E2BDA25C097B8C7D460.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter.uasset'
+[2025.08.11-04.20.52:599][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.600 ms (total: 1.26 sec)
+[2025.08.11-04.20.52:618][ 65]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-04.20.52:618][ 65]LogContentValidation: Enabled validators:
+[2025.08.11-04.20.52:618][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-04.20.52:618][ 65]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-04.20.52:618][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-04.20.52:618][ 65]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-04.20.52:618][ 65]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-04.20.52:618][ 65]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-04.20.52:618][ 65]AssetCheck: /Game/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter Validating asset
+[2025.08.11-04.20.54:547][174]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.11-04.20.54:556][174]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.11-04.20.54:556][174]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.08.11-04.20.54:558][174]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 2.032 ms (total: 21.484 ms)
+[2025.08.11-04.20.54:558][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.11-04.20.54:592][174]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.11-04.20.54:609][174]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.11-04.20.54:611][174]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.485 ms (total: 25.643 ms)
+[2025.08.11-04.20.54:611][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019496s)
+[2025.08.11-04.20.54:611][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.019525s)
+[2025.08.11-04.20.54:637][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.08.11-04.20.54:648][174]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.08.11-04.20.54:650][174]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.11-04.20.54:650][174]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.11-04.20.54:650][174]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.11-04.20.54:650][174]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.11-04.20.54:653][174]LogWorldPartition: Display: WorldPartition initialize took 3.050 ms (total: 722.183 ms)
+[2025.08.11-04.20.54:653][174]LogPlayLevel: PIE: World Init took: (0.004455s)
+[2025.08.11-04.20.54:653][174]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.08.11-04.20.54:653][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.11-04.20.54:653][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.11-04.20.54:653][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.11-04.20.54:653][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.11-04.20.54:653][174]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.11-04.20.54:653][174]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.11-04.20.54:653][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.11-04.20.54:653][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.11-04.20.54:653][174]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.11-04.20.54:653][174]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.11-04.20.54:653][174]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.11-04.20.54:655][174]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.11-04.20.54:674][174]LogAudioMixer: Display: Using Audio Hardware Device System (2- TC-HELICON GoXLR Mini)
+[2025.08.11-04.20.54:674][174]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.11-04.20.54:674][174]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.11-04.20.54:674][174]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.11-04.20.54:674][174]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.08.11-04.20.54:674][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.08.11-04.20.54:676][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.08.11-04.20.54:676][174]LogInit: FAudioDevice initialized with ID 11.
+[2025.08.11-04.20.54:676][174]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.08.11-04.20.54:676][174]LogAudio: Display: Audio Device (ID: 11) registered with world 'Lvl_FirstPerson'.
+[2025.08.11-04.20.54:676][174]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.08.11-04.20.54:679][174]LogLoad: Game class is 'GM_Shooter_C'
+[2025.08.11-04.20.54:680][174]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_Lvl_FirstPerson_93RG4RG3I27TZTQ2434BZCCEY) is flushing async loading
+[2025.08.11-04.20.54:680][174]LogStreaming: Display: FlushAsyncLoading(707,708,709,710,711,712,713,714,715,716,717,718,719,720,721,722,723): 17 QueuedPackages, 0 AsyncPackages
+[2025.08.11-04.20.55:442][174]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.20.55:450][174]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.20.55:457][174]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.20.55:458][174]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.20.55:459][174]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.20.55:460][174]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.20.55:467][174]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.20.55:475][174]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.20.55:476][174]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.20.55:483][174]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.20.55:490][174]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.20.55:499][174]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.20.55:506][174]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.20.55:507][174]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.20.55:514][174]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.20.55:515][174]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.20.55:518][174]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.08.10-21.20.55
+[2025.08.11-04.20.55:523][174]LogWorld: Bringing up level for play took: 0.084430
+[2025.08.11-04.20.55:526][174]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.08.11-04.20.55:534][174]PIE: Server logged in
+[2025.08.11-04.20.55:536][174]PIE: Play in editor total start time 0.98 seconds.
+[2025.08.11-04.20.55:753][176]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.08.11-04.21.01:542][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-04.21.01:542][429]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.11-04.21.01:542][429]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.08.11-04.21.01:555][429]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-04.21.01:560][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-04.21.01:560][429]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.11-04.21.01:563][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.11-04.21.01:569][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-04.21.01:606][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.11-04.21.01:606][429]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.08.11-04.21.01:606][429]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2025.08.11-04.21.01:608][429]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2025.08.11-04.21.01:612][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-04.21.01:629][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.08.11-04.21.01:722][430]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.08.11-04.21.24:069][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.08.11-04.21.24:792][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-04.21.24:811][766]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter] ([2] browsable assets)...
+[2025.08.11-04.21.24:853][766]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter.BP_FPShooter]
+[2025.08.11-04.21.24:853][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter]
+[2025.08.11-04.21.24:895][766]LogSavePackage: Moving output files for package: /Game/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter
+[2025.08.11-04.21.24:896][766]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/BP_FPShooter57076EDE44882088E94986A07EB59235.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter.uasset'
+[2025.08.11-04.21.24:904][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.870 ms (total: 1.37 sec)
+[2025.08.11-04.21.24:925][766]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-04.21.24:925][766]LogContentValidation: Enabled validators:
+[2025.08.11-04.21.24:925][766]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-04.21.24:925][766]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-04.21.24:925][766]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-04.21.24:925][766]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-04.21.24:925][766]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-04.21.24:925][766]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-04.21.24:925][766]AssetCheck: /Game/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter Validating asset
+[2025.08.11-04.21.26:003][827]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.11-04.21.26:012][827]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.11-04.21.26:012][827]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.08.11-04.21.26:014][827]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 2.008 ms (total: 23.492 ms)
+[2025.08.11-04.21.26:014][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.11-04.21.26:060][827]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.11-04.21.26:077][827]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.11-04.21.26:079][827]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.471 ms (total: 28.115 ms)
+[2025.08.11-04.21.26:079][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019440s)
+[2025.08.11-04.21.26:079][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.019469s)
+[2025.08.11-04.21.26:105][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.08.11-04.21.26:113][827]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.08.11-04.21.26:114][827]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.11-04.21.26:114][827]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.11-04.21.26:114][827]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.11-04.21.26:114][827]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.11-04.21.26:117][827]LogWorldPartition: Display: WorldPartition initialize took 3.102 ms (total: 725.285 ms)
+[2025.08.11-04.21.26:117][827]LogPlayLevel: PIE: World Init took: (0.004516s)
+[2025.08.11-04.21.26:118][827]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.08.11-04.21.26:118][827]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.11-04.21.26:118][827]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.11-04.21.26:118][827]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.11-04.21.26:118][827]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.11-04.21.26:118][827]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.11-04.21.26:118][827]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.11-04.21.26:118][827]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.11-04.21.26:118][827]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.11-04.21.26:118][827]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.11-04.21.26:118][827]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.11-04.21.26:118][827]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.11-04.21.26:120][827]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.11-04.21.26:137][827]LogAudioMixer: Display: Using Audio Hardware Device System (2- TC-HELICON GoXLR Mini)
+[2025.08.11-04.21.26:137][827]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.11-04.21.26:137][827]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.11-04.21.26:137][827]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.11-04.21.26:137][827]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.08.11-04.21.26:137][827]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.08.11-04.21.26:139][827]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.08.11-04.21.26:139][827]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.08.11-04.21.26:139][827]LogInit: FAudioDevice initialized with ID 12.
+[2025.08.11-04.21.26:139][827]LogAudio: Display: Audio Device (ID: 12) registered with world 'Lvl_FirstPerson'.
+[2025.08.11-04.21.26:139][827]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.08.11-04.21.26:142][827]LogLoad: Game class is 'GM_Shooter_C'
+[2025.08.11-04.21.26:143][827]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_Lvl_FirstPerson_93RG4RG3I27TZTQ2434BZCCEY) is flushing async loading
+[2025.08.11-04.21.26:143][827]LogStreaming: Display: FlushAsyncLoading(724,725,726,727,728,729,730,731,732,733,734,735,736,737,738,739,740): 17 QueuedPackages, 0 AsyncPackages
+[2025.08.11-04.21.26:905][827]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.21.26:912][827]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.21.26:919][827]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.21.26:920][827]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.21.26:921][827]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.21.26:921][827]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.21.26:929][827]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.21.26:936][827]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.21.26:937][827]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.21.26:944][827]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.21.26:951][827]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.21.26:960][827]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.21.26:967][827]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.21.26:967][827]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-04.21.26:974][827]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.21.26:975][827]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-04.21.26:978][827]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.08.10-21.21.26
+[2025.08.11-04.21.26:983][827]LogWorld: Bringing up level for play took: 0.081510
+[2025.08.11-04.21.26:986][827]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.08.11-04.21.26:994][827]PIE: Server logged in
+[2025.08.11-04.21.26:996][827]PIE: Play in editor total start time 0.984 seconds.
+[2025.08.11-04.21.27:199][829]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.08.11-04.21.35:461][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-04.21.35:461][193]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.11-04.21.35:461][193]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.08.11-04.21.35:474][193]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-04.21.35:478][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-04.21.35:478][193]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.11-04.21.35:480][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.11-04.21.35:487][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-04.21.35:522][193]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.11-04.21.35:522][193]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.08.11-04.21.35:522][193]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2025.08.11-04.21.35:524][193]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2025.08.11-04.21.35:527][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-04.21.35:545][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.08.11-04.21.35:636][194]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.08.11-04.21.52:215][134]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-04.21.52:215][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-04.21.52:225][134]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-04.21.52:225][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-04.21.52:301][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.11-04.22.29:003][209]LogEditorTransaction: Undo Set Vector Property
+[2025.08.11-04.22.33:894][458]LogEditorTransaction: Undo Edit X
+[2025.08.11-04.24.09:561][ 70]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.11-04.25.12:261][640]LogEditorTransaction: Undo Paste clipboard contents
+[2025.08.11-04.25.41:998][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-04.25.42:019][713]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIs/WP_Objective] ([2] browsable assets)...
+[2025.08.11-04.25.42:021][713]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIs/WP_Objective.WP_Objective]
+[2025.08.11-04.25.42:021][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIs/WP_Objective]
+[2025.08.11-04.25.42:033][713]LogSavePackage: Moving output files for package: /Game/UIs/WP_Objective
+[2025.08.11-04.25.42:034][713]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/WP_Objective6AB2801C4A4198FBD71B14A7AD360DFF.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/UIs/WP_Objective.uasset'
+[2025.08.11-04.25.42:042][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.436 ms (total: 1.41 sec)
+[2025.08.11-04.25.42:063][713]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-04.25.42:063][713]LogContentValidation: Enabled validators:
+[2025.08.11-04.25.42:063][713]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-04.25.42:063][713]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-04.25.42:063][713]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-04.25.42:063][713]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-04.25.42:063][713]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-04.25.42:063][713]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-04.25.42:064][713]AssetCheck: /Game/UIs/WP_Objective Validating asset
+[2025.08.11-04.25.46:909][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.08.11-04.26.18:721][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.08.11-04.26.39:887][641]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2067.042236
+[2025.08.11-04.26.40:891][644]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.11-04.26.40:891][644]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2067.709229, Update Interval: 346.631073
+[2025.08.11-04.26.46:935][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.08.11-04.26.46:940][662]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.032
+[2025.08.11-04.26.46:940][662]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIs/WP_Objective] ([2] browsable assets)...
+[2025.08.11-04.26.46:943][662]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIs/WP_Objective.WP_Objective]
+[2025.08.11-04.26.46:943][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIs/WP_Objective]
+[2025.08.11-04.26.46:956][662]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UIs/WP_Objective_Auto2
+[2025.08.11-04.26.46:956][662]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/WP_Objective_Auto2F28F3DD54F0203470B6328B6FF8322DE.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Autosaves/Game/UIs/WP_Objective_Auto2.uasset'
+[2025.08.11-04.26.46:957][662]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.08.11-04.28.34:091][533]LogSlate: External Image Picker: DecompressImage failed
+[2025.08.11-04.28.34:650][548]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Zombie_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Zombie_C_54
+	Function /Game/Zombies_BP/ABP_Zombie.ABP_Zombie_C:ExecuteUbergraph_ABP_Zombie:0082
+[2025.08.11-04.28.42:283][  2]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Variant_Shooter/Blueprints/FirstPerson/GM_Shooter.GM_Shooter
+[2025.08.11-04.28.42:283][  2]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2025.08.11-04.28.45:231][122]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.11-04.28.45:242][122]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.11-04.29.04:997][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.08.11-04.29.05:620][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-04.29.05:643][926]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Shooter/Blueprints/FirstPerson/GM_Shooter] ([2] browsable assets)...
+[2025.08.11-04.29.05:643][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Blueprints/FirstPerson/GM_Shooter]
+[2025.08.11-04.29.05:655][926]LogSavePackage: Moving output files for package: /Game/Variant_Shooter/Blueprints/FirstPerson/GM_Shooter
+[2025.08.11-04.29.05:657][926]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/GM_Shooter28FC4EDA45C71E747107ED8D795C1F8A.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/Variant_Shooter/Blueprints/FirstPerson/GM_Shooter.uasset'
+[2025.08.11-04.29.05:667][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.876 ms (total: 1.46 sec)
+[2025.08.11-04.29.05:688][926]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-04.29.05:688][926]LogContentValidation: Enabled validators:
+[2025.08.11-04.29.05:688][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-04.29.05:688][926]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-04.29.05:688][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-04.29.05:688][926]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-04.29.05:688][926]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-04.29.05:688][926]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-04.29.05:688][926]AssetCheck: /Game/Variant_Shooter/Blueprints/FirstPerson/GM_Shooter Validating asset
+[2025.08.11-04.29.05:722][926]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.11-04.29.16:287][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-04.29.16:312][658]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIs/WP_Objective] ([2] browsable assets)...
+[2025.08.11-04.29.16:314][658]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIs/WP_Objective.WP_Objective]
+[2025.08.11-04.29.16:314][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIs/WP_Objective]
+[2025.08.11-04.29.16:325][658]LogSavePackage: Moving output files for package: /Game/UIs/WP_Objective
+[2025.08.11-04.29.16:326][658]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/WP_ObjectiveB5B7ED684B221EE13931AE972DC70C4A.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/UIs/WP_Objective.uasset'
+[2025.08.11-04.29.16:335][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.777 ms (total: 1.51 sec)
+[2025.08.11-04.29.16:352][658]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-04.29.16:352][658]LogContentValidation: Enabled validators:
+[2025.08.11-04.29.16:352][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-04.29.16:352][658]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-04.29.16:352][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-04.29.16:352][658]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-04.29.16:352][658]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-04.29.16:352][658]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-04.29.16:353][658]AssetCheck: /Game/UIs/WP_Objective Validating asset
+[2025.08.11-04.33.26:818][524]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2473.971680
+[2025.08.11-04.33.26:953][532]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.11-04.33.26:953][532]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2474.089844, Update Interval: 310.792572
+[2025.08.11-04.36.45:113][742]LogBlueprint: Error: [AssetLog] C:\Users\aeake\Documents\Unreal Projects\DigitalGameDevelopment-First-Person-Simulation\FirstPersonShooter\Content\Zombies_BP\Zombie_BP.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_FPShooter  to imply a specific type.
+[2025.08.11-04.36.45:113][742]LogBlueprint: Error: [AssetLog] C:\Users\aeake\Documents\Unreal Projects\DigitalGameDevelopment-First-Person-Simulation\FirstPersonShooter\Content\Zombies_BP\Zombie_BP.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2025.08.11-04.36.45:239][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.08.11-04.37.27:663][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.11-04.37.28:714][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-04.37.28:735][507]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombies_BP/Zombie_BP] ([2] browsable assets)...
+[2025.08.11-04.37.28:774][507]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Zombies_BP/Zombie_BP.Zombie_BP]
+[2025.08.11-04.37.28:774][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombies_BP/Zombie_BP]
+[2025.08.11-04.37.28:803][507]LogSavePackage: Moving output files for package: /Game/Zombies_BP/Zombie_BP
+[2025.08.11-04.37.28:804][507]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Zombie_BP2BC1146540D2441DCC5B31A8027A966F.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/Zombies_BP/Zombie_BP.uasset'
+[2025.08.11-04.37.28:814][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.326 ms (total: 1.61 sec)
+[2025.08.11-04.37.28:832][507]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-04.37.28:832][507]LogContentValidation: Enabled validators:
+[2025.08.11-04.37.28:832][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-04.37.28:832][507]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-04.37.28:832][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-04.37.28:832][507]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-04.37.28:832][507]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-04.37.28:832][507]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-04.37.28:832][507]AssetCheck: /Game/Zombies_BP/Zombie_BP Validating asset
+[2025.08.11-04.38.47:779][ 86]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.08.11-04.38.47:784][ 86]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.08.11-04.38.47:794][ 86]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.08.11-04.38.47:812][ 87]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.08.11-04.38.54:171][478]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WP_WinScreen
+[2025.08.11-04.38.54:177][478]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.08.11-04.38.57:106][566]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UIs/WP_WinScreen.WP_WinScreen
+[2025.08.11-04.38.57:106][566]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2025.08.11-04.38.57:115][566]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2025.08.11-04.39.32:721][679]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2839.879395
+[2025.08.11-04.39.32:867][687]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.11-04.39.32:867][687]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2840.008301, Update Interval: 322.649017
+[2025.08.11-04.41.19:222][ 24]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.11-04.41.59:434][207]LogEditorTransaction: Undo Edit Y
+[2025.08.11-04.42.11:185][823]LogEditorTransaction: Undo Edit Specified Color
+[2025.08.11-04.42.11:822][842]LogEditorTransaction: Undo Edit Size
+[2025.08.11-04.42.12:543][872]LogEditorTransaction: Undo Edit Size
+[2025.08.11-04.42.15:657][ 37]LogEditorTransaction: Undo Edit Text
+[2025.08.11-04.42.16:862][107]LogEditorTransaction: Undo Edit Justification
+[2025.08.11-04.42.22:155][403]LogEditorTransaction: Redo Edit Justification
+[2025.08.11-04.42.22:360][404]LogEditorTransaction: Redo Edit Text
+[2025.08.11-04.42.22:563][405]LogEditorTransaction: Redo Edit Size
+[2025.08.11-04.42.22:762][406]LogEditorTransaction: Redo Edit Size
+[2025.08.11-04.42.22:957][407]LogEditorTransaction: Redo Edit Specified Color
+[2025.08.11-04.42.23:149][408]LogEditorTransaction: Redo Edit Y
+[2025.08.11-04.43.17:652][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.08.11-04.43.18:341][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-04.43.18:359][481]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIs/WP_Objective] ([2] browsable assets)...
+[2025.08.11-04.43.18:360][481]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIs/WP_Objective.WP_Objective]
+[2025.08.11-04.43.18:361][481]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIs/WP_Objective]
+[2025.08.11-04.43.18:371][481]LogSavePackage: Moving output files for package: /Game/UIs/WP_Objective
+[2025.08.11-04.43.18:372][481]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/WP_Objective5D4657874858917C3EA5828D390588F2.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/UIs/WP_Objective.uasset'
+[2025.08.11-04.43.18:380][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.896 ms (total: 1.64 sec)
+[2025.08.11-04.43.18:399][481]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-04.43.18:399][481]LogContentValidation: Enabled validators:
+[2025.08.11-04.43.18:399][481]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-04.43.18:399][481]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-04.43.18:399][481]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-04.43.18:399][481]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-04.43.18:399][481]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-04.43.18:399][481]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-04.43.18:400][481]AssetCheck: /Game/UIs/WP_Objective Validating asset
+[2025.08.11-04.43.44:907][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.08.11-04.44.26:395][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.08.11-04.44.27:053][187]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-04.44.27:072][187]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIs/WP_WinScreen] ([2] browsable assets)...
+[2025.08.11-04.44.27:074][187]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIs/WP_WinScreen.WP_WinScreen]
+[2025.08.11-04.44.27:074][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIs/WP_WinScreen]
+[2025.08.11-04.44.27:085][187]LogSavePackage: Moving output files for package: /Game/UIs/WP_WinScreen
+[2025.08.11-04.44.27:085][187]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/WP_WinScreen7399E3F04CE737DDF14043B897CD6188.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/UIs/WP_WinScreen.uasset'
+[2025.08.11-04.44.27:095][187]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.484 ms (total: 1.69 sec)
+[2025.08.11-04.44.27:115][187]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-04.44.27:115][187]LogContentValidation: Enabled validators:
+[2025.08.11-04.44.27:115][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-04.44.27:115][187]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-04.44.27:115][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-04.44.27:115][187]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-04.44.27:115][187]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-04.44.27:115][187]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-04.44.27:115][187]AssetCheck: /Game/UIs/WP_WinScreen Validating asset
+[2025.08.11-04.44.27:146][187]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.11-04.45.22:232][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.11-04.45.47:801][710]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3214.976074
+[2025.08.11-04.45.48:801][713]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.11-04.45.48:801][713]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3215.642578, Update Interval: 338.788422
+[2025.08.11-04.46.52:404][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.08.11-04.46.52:409][573]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.029
+[2025.08.11-04.46.52:409][573]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIs/WP_WinScreen] ([2] browsable assets)...
+[2025.08.11-04.46.52:412][573]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIs/WP_WinScreen.WP_WinScreen]
+[2025.08.11-04.46.52:412][573]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIs/WP_WinScreen]
+[2025.08.11-04.46.52:423][573]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UIs/WP_WinScreen_Auto3
+[2025.08.11-04.46.52:423][573]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/WP_WinScreen_Auto396DA557A4B1DE239853495AE3E2B9117.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Autosaves/Game/UIs/WP_WinScreen_Auto3.uasset'
+[2025.08.11-04.46.52:424][573]LogFileHelpers: Auto-saving content packages took 0.015
+[2025.08.11-04.46.55:027][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-04.46.55:046][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UIs/WP_WinScreen] ([2] browsable assets)...
+[2025.08.11-04.46.55:046][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIs/WP_WinScreen]
+[2025.08.11-04.46.55:056][581]LogSavePackage: Moving output files for package: /Game/UIs/WP_WinScreen
+[2025.08.11-04.46.55:057][581]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/WP_WinScreenDD38FFE048069F753AC97AA92F6EBF61.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/UIs/WP_WinScreen.uasset'
+[2025.08.11-04.46.55:067][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.725 ms (total: 1.73 sec)
+[2025.08.11-04.46.55:087][581]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-04.46.55:087][581]LogContentValidation: Enabled validators:
+[2025.08.11-04.46.55:087][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-04.46.55:087][581]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-04.46.55:087][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-04.46.55:087][581]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-04.46.55:087][581]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-04.46.55:087][581]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-04.46.55:088][581]AssetCheck: /Game/UIs/WP_WinScreen Validating asset
+[2025.08.11-04.48.01:165][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.08.11-04.48.02:157][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-04.48.02:177][898]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIs/WP_WinScreen] ([2] browsable assets)...
+[2025.08.11-04.48.02:179][898]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIs/WP_WinScreen.WP_WinScreen]
+[2025.08.11-04.48.02:179][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIs/WP_WinScreen]
+[2025.08.11-04.48.02:189][898]LogSavePackage: Moving output files for package: /Game/UIs/WP_WinScreen
+[2025.08.11-04.48.02:190][898]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/WP_WinScreen31F526DD4F90E6675B2AEB92808F5816.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/UIs/WP_WinScreen.uasset'
+[2025.08.11-04.48.02:198][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.191 ms (total: 1.77 sec)
+[2025.08.11-04.48.02:215][898]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-04.48.02:215][898]LogContentValidation: Enabled validators:
+[2025.08.11-04.48.02:215][898]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-04.48.02:215][898]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-04.48.02:216][898]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-04.48.02:216][898]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-04.48.02:216][898]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-04.48.02:216][898]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-04.48.02:216][898]AssetCheck: /Game/UIs/WP_WinScreen Validating asset
+[2025.08.11-04.49.34:138][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.08.11-04.49.34:798][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-04.49.34:820][611]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Shooter/Blueprints/FirstPerson/GM_Shooter] ([2] browsable assets)...
+[2025.08.11-04.49.34:820][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Blueprints/FirstPerson/GM_Shooter]
+[2025.08.11-04.49.34:834][611]LogSavePackage: Moving output files for package: /Game/Variant_Shooter/Blueprints/FirstPerson/GM_Shooter
+[2025.08.11-04.49.34:835][611]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/GM_ShooterE2CE3A6941855B5A64436EA44F1B3FEF.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/Variant_Shooter/Blueprints/FirstPerson/GM_Shooter.uasset'
+[2025.08.11-04.49.34:843][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.118 ms (total: 1.81 sec)
+[2025.08.11-04.49.34:860][611]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-04.49.34:860][611]LogContentValidation: Enabled validators:
+[2025.08.11-04.49.34:860][611]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-04.49.34:860][611]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-04.49.34:860][611]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-04.49.34:860][611]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-04.49.34:860][611]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-04.49.34:860][611]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-04.49.34:860][611]AssetCheck: /Game/Variant_Shooter/Blueprints/FirstPerson/GM_Shooter Validating asset
+[2025.08.11-04.50.07:400][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.11-04.50.08:042][790]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-04.50.08:065][790]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIs/WP_WinScreen] ([2] browsable assets)...
+[2025.08.11-04.50.08:067][790]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIs/WP_WinScreen.WP_WinScreen]
+[2025.08.11-04.50.08:067][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIs/WP_WinScreen]
+[2025.08.11-04.50.08:077][790]LogSavePackage: Moving output files for package: /Game/UIs/WP_WinScreen
+[2025.08.11-04.50.08:078][790]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/WP_WinScreenBC786FCD4A61922762A3E3BB7A907E6B.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/UIs/WP_WinScreen.uasset'
+[2025.08.11-04.50.08:086][790]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.933 ms (total: 1.86 sec)
+[2025.08.11-04.50.08:105][790]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-04.50.08:105][790]LogContentValidation: Enabled validators:
+[2025.08.11-04.50.08:105][790]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-04.50.08:105][790]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-04.50.08:105][790]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-04.50.08:105][790]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-04.50.08:105][790]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-04.50.08:105][790]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-04.50.08:105][790]AssetCheck: /Game/UIs/WP_WinScreen Validating asset
+[2025.08.11-04.52.19:458][690]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3606.637695
+[2025.08.11-04.52.19:596][699]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.11-04.52.19:596][699]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3606.761230, Update Interval: 328.391357
+[2025.08.11-04.52.32:762][500]LogEditorTransaction: Undo Create Pin Link
+[2025.08.11-04.52.35:590][661]LogBlueprint: Error: [AssetLog] C:\Users\aeake\Documents\Unreal Projects\DigitalGameDevelopment-First-Person-Simulation\FirstPersonShooter\Content\Variant_Shooter\Blueprints\FirstPerson\GM_Shooter.uasset: [Compiler] This blueprint (self) is not a WP_WinScreen_C, therefore ' Target ' must have a connection.
+[2025.08.11-04.52.35:590][661]LogBlueprint: Error: [AssetLog] C:\Users\aeake\Documents\Unreal Projects\DigitalGameDevelopment-First-Person-Simulation\FirstPersonShooter\Content\Variant_Shooter\Blueprints\FirstPerson\GM_Shooter.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To WP_WinScreen  to imply a specific type.
+[2025.08.11-04.52.35:591][661]LogBlueprint: Error: [AssetLog] C:\Users\aeake\Documents\Unreal Projects\DigitalGameDevelopment-First-Person-Simulation\FirstPersonShooter\Content\Variant_Shooter\Blueprints\FirstPerson\GM_Shooter.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.08.11-04.52.35:668][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.08.11-04.52.39:719][896]LogBlueprint: Error: [AssetLog] C:\Users\aeake\Documents\Unreal Projects\DigitalGameDevelopment-First-Person-Simulation\FirstPersonShooter\Content\Variant_Shooter\Blueprints\FirstPerson\GM_Shooter.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To WP_WinScreen  to imply a specific type.
+[2025.08.11-04.52.39:719][896]LogBlueprint: Error: [AssetLog] C:\Users\aeake\Documents\Unreal Projects\DigitalGameDevelopment-First-Person-Simulation\FirstPersonShooter\Content\Variant_Shooter\Blueprints\FirstPerson\GM_Shooter.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.08.11-04.52.39:786][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.08.11-04.52.47:952][403]LogEditorTransaction: Undo Create Pin Link
+[2025.08.11-04.52.48:410][417]LogEditorTransaction: Undo Move Node
+[2025.08.11-04.52.48:834][436]LogEditorTransaction: Undo Add Node
+[2025.08.11-04.52.49:249][455]LogEditorTransaction: Undo Remove Variable
+[2025.08.11-04.52.49:686][477]LogEditorTransaction: Undo Move Node
+[2025.08.11-04.52.50:129][501]LogEditorTransaction: Undo Add Node
+[2025.08.11-04.54.09:520][238]LogDerivedDataCache: C:/Users/aeake/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.11-04.57.05:979][965]LogBlueprint: Error: [AssetLog] C:\Users\aeake\Documents\Unreal Projects\DigitalGameDevelopment-First-Person-Simulation\FirstPersonShooter\Content\Variant_Shooter\Blueprints\FirstPerson\GM_Shooter.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To WP_WinScreen  to imply a specific type.
+[2025.08.11-04.57.05:980][965]LogBlueprint: Error: [AssetLog] C:\Users\aeake\Documents\Unreal Projects\DigitalGameDevelopment-First-Person-Simulation\FirstPersonShooter\Content\Variant_Shooter\Blueprints\FirstPerson\GM_Shooter.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2025.08.11-04.57.06:056][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.08.11-04.57.57:657][153]LogBlueprint: Warning: [AssetLog] C:\Users\aeake\Documents\Unreal Projects\DigitalGameDevelopment-First-Person-Simulation\FirstPersonShooter\Content\Variant_Shooter\Blueprints\FirstPerson\GM_Shooter.uasset: [Compiler] 'WP Win Screen' does not inherit from 'Player Controller' ( Cast To WP_WinScreen  would always fail).
+[2025.08.11-04.57.57:724][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.11-04.58.42:664][816]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3989.852783
+[2025.08.11-04.58.42:790][823]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.11-04.58.42:790][823]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3989.961670, Update Interval: 327.514282
+[2025.08.11-05.00.01:540][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.08.11-05.00.02:686][596]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-05.00.02:709][596]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Shooter/Blueprints/FirstPerson/GM_Shooter] ([2] browsable assets)...
+[2025.08.11-05.00.02:709][596]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Blueprints/FirstPerson/GM_Shooter]
+[2025.08.11-05.00.02:726][596]LogSavePackage: Moving output files for package: /Game/Variant_Shooter/Blueprints/FirstPerson/GM_Shooter
+[2025.08.11-05.00.02:727][596]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/GM_Shooter1E647CC4497D6363415A1E961159B888.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/Variant_Shooter/Blueprints/FirstPerson/GM_Shooter.uasset'
+[2025.08.11-05.00.02:735][596]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.343 ms (total: 1.91 sec)
+[2025.08.11-05.00.02:756][596]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-05.00.02:756][596]LogContentValidation: Enabled validators:
+[2025.08.11-05.00.02:756][596]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-05.00.02:756][596]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-05.00.02:756][596]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-05.00.02:756][596]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-05.00.02:756][596]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-05.00.02:756][596]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-05.00.02:756][596]AssetCheck: /Game/Variant_Shooter/Blueprints/FirstPerson/GM_Shooter Validating asset
+[2025.08.11-05.01.35:325][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.11-05.01.36:347][451]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-05.01.36:368][451]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIs/WP_Objective] ([2] browsable assets)...
+[2025.08.11-05.01.36:371][451]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIs/WP_Objective.WP_Objective]
+[2025.08.11-05.01.36:371][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIs/WP_Objective]
+[2025.08.11-05.01.36:381][451]LogSavePackage: Moving output files for package: /Game/UIs/WP_Objective
+[2025.08.11-05.01.36:382][451]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/WP_Objective7B0A2F4A4868C2F74CA54BB3F5694953.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/UIs/WP_Objective.uasset'
+[2025.08.11-05.01.36:390][451]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.161 ms (total: 1.95 sec)
+[2025.08.11-05.01.36:410][451]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-05.01.36:410][451]LogContentValidation: Enabled validators:
+[2025.08.11-05.01.36:410][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-05.01.36:410][451]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-05.01.36:410][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-05.01.36:410][451]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-05.01.36:410][451]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-05.01.36:410][451]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-05.01.36:411][451]AssetCheck: /Game/UIs/WP_Objective Validating asset
+[2025.08.11-05.01.45:308][ 42]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.11-05.01.45:319][ 42]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.11-05.01.45:319][ 42]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.08.11-05.01.45:321][ 42]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 2.215 ms (total: 25.707 ms)
+[2025.08.11-05.01.45:321][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.11-05.01.45:371][ 42]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.11-05.01.45:389][ 42]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.11-05.01.45:391][ 42]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.495 ms (total: 30.611 ms)
+[2025.08.11-05.01.45:391][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020389s)
+[2025.08.11-05.01.45:391][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.020429s)
+[2025.08.11-05.01.45:416][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.08.11-05.01.45:426][ 42]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.08.11-05.01.45:427][ 42]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.11-05.01.45:427][ 42]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.11-05.01.45:427][ 42]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.11-05.01.45:427][ 42]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.11-05.01.45:430][ 42]LogWorldPartition: Display: WorldPartition initialize took 3.069 ms (total: 728.354 ms)
+[2025.08.11-05.01.45:430][ 42]LogPlayLevel: PIE: World Init took: (0.004502s)
+[2025.08.11-05.01.45:431][ 42]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.08.11-05.01.45:431][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.11-05.01.45:431][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.11-05.01.45:431][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.11-05.01.45:431][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.11-05.01.45:431][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.11-05.01.45:431][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.11-05.01.45:431][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.11-05.01.45:431][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.11-05.01.45:431][ 42]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.11-05.01.45:431][ 42]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.11-05.01.45:431][ 42]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.11-05.01.45:433][ 42]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.11-05.01.45:450][ 42]LogAudioMixer: Display: Using Audio Hardware Device System (2- TC-HELICON GoXLR Mini)
+[2025.08.11-05.01.45:450][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.11-05.01.45:450][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.11-05.01.45:450][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.11-05.01.45:451][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.08.11-05.01.45:451][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.08.11-05.01.45:452][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.08.11-05.01.45:452][ 42]LogInit: FAudioDevice initialized with ID 13.
+[2025.08.11-05.01.45:452][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.08.11-05.01.45:452][ 42]LogAudio: Display: Audio Device (ID: 13) registered with world 'Lvl_FirstPerson'.
+[2025.08.11-05.01.45:452][ 42]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.08.11-05.01.45:456][ 42]LogLoad: Game class is 'GM_Shooter_C'
+[2025.08.11-05.01.45:457][ 42]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_Lvl_FirstPerson_93RG4RG3I27TZTQ2434BZCCEY) is flushing async loading
+[2025.08.11-05.01.45:457][ 42]LogStreaming: Display: FlushAsyncLoading(741,742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757): 17 QueuedPackages, 0 AsyncPackages
+[2025.08.11-05.01.46:218][ 42]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.01.46:219][ 42]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.01.46:220][ 42]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.01.46:221][ 42]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.01.46:223][ 42]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.01.46:223][ 42]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.01.46:224][ 42]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.01.46:226][ 42]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.01.46:235][ 42]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.01.46:242][ 42]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.01.46:249][ 42]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.01.46:256][ 42]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.01.46:263][ 42]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.01.46:270][ 42]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.01.46:277][ 42]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.01.46:284][ 42]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.01.46:293][ 42]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.08.10-22.01.46
+[2025.08.11-05.01.46:298][ 42]LogWorld: Bringing up level for play took: 0.082410
+[2025.08.11-05.01.46:300][ 42]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2025.08.11-05.01.46:309][ 42]PIE: Server logged in
+[2025.08.11-05.01.46:311][ 42]PIE: Play in editor total start time 0.992 seconds.
+[2025.08.11-05.01.46:534][ 44]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.08.11-05.02.17:312][911]LogBlueprintUserMessages: [ShieldPickup_C_UAID_A85E4552D68BE58302_1860763146] +10.0 shield
+[2025.08.11-05.02.24:014][346]LogBlueprintUserMessages: [BP_FPShooter_C_0] 40.0
+[2025.08.11-05.03.41:850][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-05.03.41:850][777]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.11-05.03.41:850][777]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.08.11-05.03.41:863][777]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.03.41:864][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.03.41:865][777]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.11-05.03.41:867][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.11-05.03.41:874][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.03.41:908][777]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.11-05.03.41:908][777]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.08.11-05.03.41:908][777]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2025.08.11-05.03.41:910][777]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2025.08.11-05.03.41:914][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-05.03.41:931][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.08.11-05.03.42:019][778]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2025.08.11-05.04.26:007][123]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_69
+[2025.08.11-05.04.26:084][125]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_70
+[2025.08.11-05.04.29:736][376]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/HealthPickup.HealthPickup_C
+[2025.08.11-05.04.29:737][376]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/HealthPickup.HealthPickup_C
+[2025.08.11-05.04.29:739][376]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/HealthPickup.HealthPickup as actor: HealthPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.HealthPickup_C_0
+[2025.08.11-05.04.29:741][376]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/HealthPickup.HealthPickup as actor: HealthPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.HealthPickup_C_0
+[2025.08.11-05.04.29:746][376]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.08.11-05.04.30:354][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.08.11-05.04.30:365][400]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2025.08.11-05.04.30:371][400]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/HealthPickup.HealthPickup_C
+[2025.08.11-05.04.30:371][400]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/HealthPickup.HealthPickup_C
+[2025.08.11-05.04.30:376][400]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/HealthPickup.HealthPickup as actor: HealthPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.HealthPickup_C_UAID_A85E4552D68B048402_2077073591
+[2025.08.11-05.04.30:378][400]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/HealthPickup.HealthPickup as actor: HealthPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.HealthPickup_C_UAID_A85E4552D68B048402_2077073591
+[2025.08.11-05.04.36:941][896]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/HealthPickup.HealthPickup_C
+[2025.08.11-05.04.36:941][896]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/HealthPickup.HealthPickup_C
+[2025.08.11-05.04.36:943][896]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/HealthPickup.HealthPickup as actor: HealthPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.HealthPickup_C_1
+[2025.08.11-05.04.36:945][896]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/HealthPickup.HealthPickup as actor: HealthPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.HealthPickup_C_1
+[2025.08.11-05.04.37:700][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.08.11-05.04.37:707][937]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.08.11-05.04.37:713][937]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/HealthPickup.HealthPickup_C
+[2025.08.11-05.04.37:713][937]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/HealthPickup.HealthPickup_C
+[2025.08.11-05.04.37:719][937]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/HealthPickup.HealthPickup as actor: HealthPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.HealthPickup_C_UAID_A85E4552D68B048402_2084415592
+[2025.08.11-05.04.37:721][937]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/HealthPickup.HealthPickup as actor: HealthPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.HealthPickup_C_UAID_A85E4552D68B048402_2084415592
+[2025.08.11-05.04.50:468][853]Cmd: DELETE
+[2025.08.11-05.04.50:468][853]Cmd: ACTOR DELETE
+[2025.08.11-05.04.50:474][853]LogEditorActor: Deleted Actor: Zombie_BP_C
+[2025.08.11-05.04.50:502][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.08.11-05.04.50:509][853]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2025.08.11-05.04.53:628][ 62]Cmd: DELETE
+[2025.08.11-05.04.53:628][ 62]Cmd: ACTOR DELETE
+[2025.08.11-05.04.53:632][ 62]LogEditorActor: Deleted Actor: Zombie_BP_C
+[2025.08.11-05.04.53:660][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.08.11-05.04.53:666][ 62]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2025.08.11-05.05.06:479][ 87]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4373.677246
+[2025.08.11-05.05.06:587][ 96]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.11-05.05.06:587][ 96]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4373.775391, Update Interval: 324.692535
+[2025.08.11-05.05.17:062][  4]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/ShieldPickup.ShieldPickup_C
+[2025.08.11-05.05.17:062][  4]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/ShieldPickup.ShieldPickup_C
+[2025.08.11-05.05.17:063][  4]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/ShieldPickup.ShieldPickup as actor: ShieldPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.ShieldPickup_C_0
+[2025.08.11-05.05.17:065][  4]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/ShieldPickup.ShieldPickup as actor: ShieldPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.ShieldPickup_C_0
+[2025.08.11-05.05.17:763][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.08.11-05.05.17:770][ 39]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.08.11-05.05.17:776][ 39]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/ShieldPickup.ShieldPickup_C
+[2025.08.11-05.05.17:776][ 39]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/ShieldPickup.ShieldPickup_C
+[2025.08.11-05.05.17:780][ 39]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/ShieldPickup.ShieldPickup as actor: ShieldPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.ShieldPickup_C_UAID_A85E4552D68B048402_2124478593
+[2025.08.11-05.05.17:782][ 39]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/ShieldPickup.ShieldPickup as actor: ShieldPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.ShieldPickup_C_UAID_A85E4552D68B048402_2124478593
+[2025.08.11-05.05.20:429][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/HealthPickup.HealthPickup_C
+[2025.08.11-05.05.20:429][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/HealthPickup.HealthPickup_C
+[2025.08.11-05.05.20:431][212]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/HealthPickup.HealthPickup as actor: HealthPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.HealthPickup_C_2
+[2025.08.11-05.05.20:433][212]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/HealthPickup.HealthPickup as actor: HealthPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.HealthPickup_C_2
+[2025.08.11-05.05.21:433][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.08.11-05.05.21:440][260]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.08.11-05.05.21:446][260]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/HealthPickup.HealthPickup_C
+[2025.08.11-05.05.21:446][260]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/HealthPickup.HealthPickup_C
+[2025.08.11-05.05.21:450][260]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/HealthPickup.HealthPickup as actor: HealthPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.HealthPickup_C_UAID_A85E4552D68B048402_2128148594
+[2025.08.11-05.05.21:452][260]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/HealthPickup.HealthPickup as actor: HealthPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.HealthPickup_C_UAID_A85E4552D68B048402_2128148594
+[2025.08.11-05.05.25:958][589]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/ShieldPickup.ShieldPickup_C
+[2025.08.11-05.05.25:958][589]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/ShieldPickup.ShieldPickup_C
+[2025.08.11-05.05.25:960][589]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/ShieldPickup.ShieldPickup as actor: ShieldPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.ShieldPickup_C_1
+[2025.08.11-05.05.25:961][589]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/ShieldPickup.ShieldPickup as actor: ShieldPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.ShieldPickup_C_1
+[2025.08.11-05.05.27:324][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.08.11-05.05.27:332][657]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2025.08.11-05.05.27:338][657]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/ShieldPickup.ShieldPickup_C
+[2025.08.11-05.05.27:338][657]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/ShieldPickup.ShieldPickup_C
+[2025.08.11-05.05.27:342][657]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/ShieldPickup.ShieldPickup as actor: ShieldPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.ShieldPickup_C_UAID_A85E4552D68B048402_2134040595
+[2025.08.11-05.05.27:343][657]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/ShieldPickup.ShieldPickup as actor: ShieldPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.ShieldPickup_C_UAID_A85E4552D68B048402_2134040595
+[2025.08.11-05.05.30:912][899]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/HealthPickup.HealthPickup_C
+[2025.08.11-05.05.30:913][899]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/HealthPickup.HealthPickup_C
+[2025.08.11-05.05.30:915][899]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/HealthPickup.HealthPickup as actor: HealthPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.HealthPickup_C_3
+[2025.08.11-05.05.30:917][899]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/HealthPickup.HealthPickup as actor: HealthPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.HealthPickup_C_3
+[2025.08.11-05.05.32:076][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.08.11-05.05.32:084][960]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2025.08.11-05.05.32:090][960]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/HealthPickup.HealthPickup_C
+[2025.08.11-05.05.32:090][960]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Pickups/HealthPickup.HealthPickup_C
+[2025.08.11-05.05.32:094][960]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/HealthPickup.HealthPickup as actor: HealthPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.HealthPickup_C_UAID_A85E4552D68B048402_2138792596
+[2025.08.11-05.05.32:096][960]LogActorFactory: Actor Factory spawned Blueprint /Game/Pickups/HealthPickup.HealthPickup as actor: HealthPickup_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.HealthPickup_C_UAID_A85E4552D68B048402_2138792596
+[2025.08.11-05.05.44:010][901]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.11-05.05.44:020][901]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.11-05.05.44:020][901]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.08.11-05.05.44:023][901]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 2.702 ms (total: 28.409 ms)
+[2025.08.11-05.05.44:023][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.11-05.05.44:023][901]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.11-05.05.44:042][901]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.11-05.05.44:044][901]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.727 ms (total: 33.338 ms)
+[2025.08.11-05.05.44:044][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021433s)
+[2025.08.11-05.05.44:044][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.021458s)
+[2025.08.11-05.05.44:069][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.08.11-05.05.44:076][901]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.08.11-05.05.44:078][901]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.11-05.05.44:078][901]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.11-05.05.44:078][901]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.11-05.05.44:078][901]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.11-05.05.44:081][901]LogWorldPartition: Display: WorldPartition initialize took 3.249 ms (total: 731.604 ms)
+[2025.08.11-05.05.44:081][901]LogPlayLevel: PIE: World Init took: (0.004711s)
+[2025.08.11-05.05.44:082][901]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.08.11-05.05.44:082][901]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.11-05.05.44:082][901]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.11-05.05.44:082][901]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.11-05.05.44:082][901]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.11-05.05.44:082][901]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.11-05.05.44:082][901]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.11-05.05.44:082][901]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.11-05.05.44:082][901]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.11-05.05.44:082][901]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.11-05.05.44:082][901]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.11-05.05.44:082][901]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.11-05.05.44:084][901]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.11-05.05.44:102][901]LogAudioMixer: Display: Using Audio Hardware Device System (2- TC-HELICON GoXLR Mini)
+[2025.08.11-05.05.44:102][901]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.11-05.05.44:102][901]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.11-05.05.44:102][901]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.11-05.05.44:103][901]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.08.11-05.05.44:103][901]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.08.11-05.05.44:104][901]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.08.11-05.05.44:104][901]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.08.11-05.05.44:104][901]LogInit: FAudioDevice initialized with ID 14.
+[2025.08.11-05.05.44:104][901]LogAudio: Display: Audio Device (ID: 14) registered with world 'Lvl_FirstPerson'.
+[2025.08.11-05.05.44:104][901]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.08.11-05.05.44:108][901]LogLoad: Game class is 'GM_Shooter_C'
+[2025.08.11-05.05.44:108][901]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_Lvl_FirstPerson_93RG4RG3I27TZTQ2434BZCCEY) is flushing async loading
+[2025.08.11-05.05.44:108][901]LogStreaming: Display: FlushAsyncLoading(758,759,760,761,762,763,764,765,766,767,768,769,770,771,772,773,774): 17 QueuedPackages, 0 AsyncPackages
+[2025.08.11-05.05.44:865][901]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.05.44:865][901]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.05.44:866][901]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.05.44:867][901]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.05.44:869][901]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.05.44:869][901]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.05.44:870][901]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.05.44:872][901]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.05.44:880][901]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.05.44:888][901]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.05.44:895][901]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.05.44:902][901]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.05.44:909][901]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.05.44:916][901]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.05.44:922][901]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.05.44:929][901]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.05.44:937][901]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.08.10-22.05.44
+[2025.08.11-05.05.44:942][901]LogWorld: Bringing up level for play took: 0.079969
+[2025.08.11-05.05.44:944][901]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2025.08.11-05.05.44:953][901]PIE: Server logged in
+[2025.08.11-05.05.44:955][901]PIE: Play in editor total start time 0.935 seconds.
+[2025.08.11-05.05.45:166][903]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.08.11-05.05.55:799][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-05.05.55:799][519]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.11-05.05.55:799][519]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.08.11-05.05.55:812][519]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.05.55:816][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.05.55:816][519]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.11-05.05.55:818][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.11-05.05.55:825][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.05.55:858][519]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.11-05.05.55:858][519]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.08.11-05.05.55:858][519]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2025.08.11-05.05.55:860][519]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2025.08.11-05.05.55:863][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-05.05.55:879][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.08.11-05.05.55:943][520]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2025.08.11-05.06.21:766][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.11-05.06.21:783][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/2O/G4WDRKPCP911HYLJKZJIUG_Auto4
+[2025.08.11-05.06.21:783][750]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/G4WDRKPCP911HYLJKZJIUG_Auto4A9DDB9F345D7D6D70E147B821A05AD38.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/2O/G4WDRKPCP911HYLJKZJIUG_Auto4.uasset'
+[2025.08.11-05.06.21:792][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/9H/HYDJBUHROK2W7XNR0OPWNW_Auto4
+[2025.08.11-05.06.21:792][750]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/HYDJBUHROK2W7XNR0OPWNW_Auto48EA952914F29D8FCC9D92DB4D14BA35B.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/9H/HYDJBUHROK2W7XNR0OPWNW_Auto4.uasset'
+[2025.08.11-05.06.21:801][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/BY/TIBIY1YJQKNTYU5XV5MGW6_Auto4
+[2025.08.11-05.06.21:801][750]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/TIBIY1YJQKNTYU5XV5MGW6_Auto4A310277A452A945221C1A49A9F4BC92B.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/BY/TIBIY1YJQKNTYU5XV5MGW6_Auto4.uasset'
+[2025.08.11-05.06.21:809][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/0V/A85PBOY4VUMCC3EWA47JCT_Auto4
+[2025.08.11-05.06.21:809][750]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/A85PBOY4VUMCC3EWA47JCT_Auto43AAF0A164B8353B4335EE79898C3BC23.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/0V/A85PBOY4VUMCC3EWA47JCT_Auto4.uasset'
+[2025.08.11-05.06.21:818][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/31/QHLFRV2KCMNRHMO9OQFQ45_Auto4
+[2025.08.11-05.06.21:818][750]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/QHLFRV2KCMNRHMO9OQFQ45_Auto43E12D1A04513EB5E9522E48475DA1596.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/31/QHLFRV2KCMNRHMO9OQFQ45_Auto4.uasset'
+[2025.08.11-05.06.21:826][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GY/ZE5ZHIJ52W8TSTSQTR8L86_Auto4
+[2025.08.11-05.06.21:826][750]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/ZE5ZHIJ52W8TSTSQTR8L86_Auto46D2A00154ACC04CBAE2810B1B3F026D3.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GY/ZE5ZHIJ52W8TSTSQTR8L86_Auto4.uasset'
+[2025.08.11-05.06.21:834][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/UY/Z4YVH0ZQKUKJ4Z4SPSJAGT_Auto4
+[2025.08.11-05.06.21:834][750]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Z4YVH0ZQKUKJ4Z4SPSJAGT_Auto4C5AA7A6845D2EF5305F3BA999E1741DE.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/UY/Z4YVH0ZQKUKJ4Z4SPSJAGT_Auto4.uasset'
+[2025.08.11-05.06.21:836][750]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.096
+[2025.08.11-05.06.21:836][750]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096
+[2025.08.11-05.06.34:099][178]LogStreaming: Display: FlushAsyncLoading(775): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.11-05.06.34:171][178]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\aeake\Downloads\submachine-gun-79846.mp3)
+[2025.08.11-05.06.34:179][178]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave submachine-gun-79846...
+[2025.08.11-05.06.34:186][178]LogAudioDerivedData: Display: submachine-gun-79846 compressed to 14.92% (from 263KB to 39KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.08.11-05.06.34:187][178]LogAudio: Display: Chunk stats for (SoundWave /Game/Weapons/submachine-gun-79846.submachine-gun-79846: Duration=2.81 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=40213 bytes, ChunkN=0)
+[2025.08.11-05.06.34:188][178]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave submachine-gun-79846...
+[2025.08.11-05.06.34:194][178]LogAudioDerivedData: Display: submachine-gun-79846 compressed to 14.92% (from 263KB to 39KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.08.11-05.06.34:194][178]LogAudio: Display: Chunk stats for (SoundWave /Game/Weapons/submachine-gun-79846.submachine-gun-79846: Duration=2.81 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=40213 bytes, ChunkN=0)
+[2025.08.11-05.06.54:826][662]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Variant_Shooter/Blueprints/Pickups/Rifle/BP_Weapon_Rifle.BP_Weapon_Rifle
+[2025.08.11-05.06.54:826][662]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_71
+[2025.08.11-05.06.55:355][665]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_72
+[2025.08.11-05.07.07:345][441]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.07.07:345][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.07.07:433][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.08.11-05.07.13:237][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Variant_Shooter/Blueprints/Pickups/BP_WeaponBase.BP_WeaponBase
+[2025.08.11-05.07.13:237][854]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_73
+[2025.08.11-05.08.01:205][398]LogStreaming: Display: FlushAsyncLoading(803): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.11-05.09.09:793][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.08.11-05.09.10:559][395]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-05.09.10:583][395]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Variant_Shooter/Blueprints/Pickups/BP_WeaponBase] ([2] browsable assets)...
+[2025.08.11-05.09.10:620][395]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Shooter/Blueprints/Pickups/BP_WeaponBase.BP_WeaponBase]
+[2025.08.11-05.09.10:620][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Blueprints/Pickups/BP_WeaponBase]
+[2025.08.11-05.09.10:654][395]LogSavePackage: Moving output files for package: /Game/Variant_Shooter/Blueprints/Pickups/BP_WeaponBase
+[2025.08.11-05.09.10:655][395]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/BP_WeaponBaseBE5C88AB48D14F17926F2DA589FF495F.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/Variant_Shooter/Blueprints/Pickups/BP_WeaponBase.uasset'
+[2025.08.11-05.09.10:664][395]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.203 ms (total: 2.05 sec)
+[2025.08.11-05.09.10:681][395]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-05.09.10:681][395]LogContentValidation: Enabled validators:
+[2025.08.11-05.09.10:681][395]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-05.09.10:681][395]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-05.09.10:681][395]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-05.09.10:681][395]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-05.09.10:681][395]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-05.09.10:681][395]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-05.09.10:681][395]AssetCheck: /Game/Variant_Shooter/Blueprints/Pickups/BP_WeaponBase Validating asset
+[2025.08.11-05.09.10:714][395]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.11-05.09.14:271][618]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.11-05.09.14:280][618]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.08.11-05.09.14:280][618]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.08.11-05.09.14:283][618]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 2.602 ms (total: 31.011 ms)
+[2025.08.11-05.09.14:283][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.11-05.09.14:283][618]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.11-05.09.14:301][618]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.08.11-05.09.14:304][618]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.713 ms (total: 36.052 ms)
+[2025.08.11-05.09.14:304][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020736s)
+[2025.08.11-05.09.14:304][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.020761s)
+[2025.08.11-05.09.14:330][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.08.11-05.09.14:336][618]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.08.11-05.09.14:337][618]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.08.11-05.09.14:337][618]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.08.11-05.09.14:337][618]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.08.11-05.09.14:337][618]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.08.11-05.09.14:341][618]LogWorldPartition: Display: WorldPartition initialize took 3.194 ms (total: 734.798 ms)
+[2025.08.11-05.09.14:341][618]LogPlayLevel: PIE: World Init took: (0.004572s)
+[2025.08.11-05.09.14:341][618]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.08.11-05.09.14:341][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.11-05.09.14:341][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.11-05.09.14:341][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.11-05.09.14:341][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.11-05.09.14:341][618]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.11-05.09.14:341][618]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.11-05.09.14:341][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.11-05.09.14:341][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.11-05.09.14:341][618]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.11-05.09.14:341][618]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.11-05.09.14:341][618]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.11-05.09.14:343][618]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.11-05.09.14:360][618]LogAudioMixer: Display: Using Audio Hardware Device System (2- TC-HELICON GoXLR Mini)
+[2025.08.11-05.09.14:361][618]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.11-05.09.14:361][618]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.11-05.09.14:361][618]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.11-05.09.14:361][618]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.08.11-05.09.14:361][618]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.08.11-05.09.14:363][618]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.08.11-05.09.14:363][618]LogInit: FAudioDevice initialized with ID 15.
+[2025.08.11-05.09.14:363][618]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.08.11-05.09.14:363][618]LogAudio: Display: Audio Device (ID: 15) registered with world 'Lvl_FirstPerson'.
+[2025.08.11-05.09.14:363][618]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.08.11-05.09.14:366][618]LogLoad: Game class is 'GM_Shooter_C'
+[2025.08.11-05.09.14:367][618]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_Lvl_FirstPerson_93RG4RG3I27TZTQ2434BZCCEY) is flushing async loading
+[2025.08.11-05.09.14:367][618]LogStreaming: Display: FlushAsyncLoading(804,805,806,807,808,809,810,811,812,813,814,815,816,817,818,819,820): 17 QueuedPackages, 0 AsyncPackages
+[2025.08.11-05.09.15:131][618]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.09.15:132][618]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.09.15:132][618]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.09.15:133][618]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.09.15:135][618]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.09.15:136][618]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.09.15:136][618]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Lizardman_Berserker'
+[2025.08.11-05.09.15:139][618]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.09.15:147][618]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.09.15:154][618]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.09.15:161][618]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.09.15:167][618]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.09.15:180][618]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.09.15:186][618]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.09.15:193][618]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.09.15:200][618]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'ZombieFemale_NurseOutfit'
+[2025.08.11-05.09.15:208][618]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.08.10-22.09.15
+[2025.08.11-05.09.15:213][618]LogWorld: Bringing up level for play took: 0.084250
+[2025.08.11-05.09.15:215][618]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2025.08.11-05.09.15:224][618]PIE: Server logged in
+[2025.08.11-05.09.15:226][618]PIE: Play in editor total start time 0.945 seconds.
+[2025.08.11-05.09.15:444][620]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.08.11-05.10.09:187][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-05.10.09:187][840]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.08.11-05.10.09:187][840]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.08.11-05.10.09:200][840]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.09:202][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.09:202][840]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.11-05.10.09:205][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.11-05.10.09:213][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.09:251][840]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.11-05.10.09:251][840]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.08.11-05.10.09:251][840]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.08.11-05.10.09:253][840]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.08.11-05.10.09:257][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.11-05.10.09:276][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.08.11-05.10.09:344][841]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.08.11-05.10.50:079][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.08.11-05.10.52:098][233]LogSlate: Window 'Save Content' being destroyed
+[2025.08.11-05.10.52:108][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-05.10.52:156][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.08.11-05.10.52:184][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.08.11-05.10.52:210][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.08.11-05.10.52:223][233]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/2O/G4WDRKPCP911HYLJKZJIUG
+[2025.08.11-05.10.52:224][233]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/G4WDRKPCP911HYLJKZJIUG26A154B54596CE9F12F34D9CC14F46E5.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/2O/G4WDRKPCP911HYLJKZJIUG.uasset'
+[2025.08.11-05.10.52:232][233]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/9H/HYDJBUHROK2W7XNR0OPWNW
+[2025.08.11-05.10.52:232][233]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/HYDJBUHROK2W7XNR0OPWNW334D138745EF7A9D0192CDAA2DB6581D.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/9H/HYDJBUHROK2W7XNR0OPWNW.uasset'
+[2025.08.11-05.10.52:241][233]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/BY/TIBIY1YJQKNTYU5XV5MGW6
+[2025.08.11-05.10.52:241][233]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/TIBIY1YJQKNTYU5XV5MGW653EA67224ED2228C3A29DC8B446F093F.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/BY/TIBIY1YJQKNTYU5XV5MGW6.uasset'
+[2025.08.11-05.10.52:249][233]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/31/QHLFRV2KCMNRHMO9OQFQ45
+[2025.08.11-05.10.52:249][233]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/QHLFRV2KCMNRHMO9OQFQ450D806F054FE4E0C13F8F439220B00EA1.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/31/QHLFRV2KCMNRHMO9OQFQ45.uasset'
+[2025.08.11-05.10.52:258][233]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/UY/Z4YVH0ZQKUKJ4Z4SPSJAGT
+[2025.08.11-05.10.52:258][233]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/Z4YVH0ZQKUKJ4Z4SPSJAGT78484A8747055EC17B3E5BBB81A94493.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/UY/Z4YVH0ZQKUKJ4Z4SPSJAGT.uasset'
+[2025.08.11-05.10.52:266][233]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/0V/A85PBOY4VUMCC3EWA47JCT
+[2025.08.11-05.10.52:266][233]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/A85PBOY4VUMCC3EWA47JCT2370FCCC4246A9D90D8F2FA409F34C59.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/0V/A85PBOY4VUMCC3EWA47JCT.uasset'
+[2025.08.11-05.10.52:274][233]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GY/ZE5ZHIJ52W8TSTSQTR8L86
+[2025.08.11-05.10.52:274][233]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/ZE5ZHIJ52W8TSTSQTR8L868F0E83564CA25EB345319D898D06B0DD.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GY/ZE5ZHIJ52W8TSTSQTR8L86.uasset'
+[2025.08.11-05.10.52:277][233]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapons/submachine-gun-79846] ([1] browsable assets)...
+[2025.08.11-05.10.52:278][233]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Weapons/submachine-gun-79846.submachine-gun-79846]
+[2025.08.11-05.10.52:278][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/submachine-gun-79846]
+[2025.08.11-05.10.52:289][233]LogSavePackage: Moving output files for package: /Game/Weapons/submachine-gun-79846
+[2025.08.11-05.10.52:289][233]LogSavePackage: Moving 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/submachine-gun-7984625C46F64422CD0D7B298F79AD940D765.tmp' to 'C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Content/Weapons/submachine-gun-79846.uasset'
+[2025.08.11-05.10.52:299][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.407 ms (total: 2.24 sec)
+[2025.08.11-05.10.52:431][233]LogStall: Shutdown...
+[2025.08.11-05.10.52:431][233]LogStall: Shutdown complete.
+[2025.08.11-05.10.52:484][233]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.52:484][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.52:494][233]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.52:494][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.52:561][233]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.52:561][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.52:707][233]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.52:707][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.52:718][233]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.52:718][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.52:810][233]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.52:810][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.52:820][233]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.52:820][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.52:893][233]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.11-05.10.52:893][233]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.52:893][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.52:990][233]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.52:991][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:073][233]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:073][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:083][233]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:083][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:155][233]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.11-05.10.53:156][233]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:156][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:208][233]LogSlate: Window 'GM_Shooter' being destroyed
+[2025.08.11-05.10.53:223][233]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.08.11-05.10.53:223][233]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:223][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:331][233]LogSlate: Window 'FirstPersonShooter - Unreal Editor' being destroyed
+[2025.08.11-05.10.53:653][233]LogContentValidation: Display: Starting to validate 8 assets
+[2025.08.11-05.10.53:653][233]LogContentValidation: Enabled validators:
+[2025.08.11-05.10.53:653][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-05.10.53:653][233]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-05.10.53:653][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-05.10.53:653][233]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-05.10.53:654][233]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-05.10.53:654][233]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-05.10.53:654][233]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.08.11-05.10.53:654][233]AssetCheck: /Game/Weapons/submachine-gun-79846 Validating asset
+[2025.08.11-05.10.53:735][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.08.11-05.10.53:789][233]Cmd: QUIT_EDITOR
+[2025.08.11-05.10.53:789][233]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.08.11-05.10.53:797][233]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/aeake/Documents/Unreal Projects/DigitalGameDevelopment-First-Person-Simulation/FirstPersonShooter/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.11-05.10.53:804][234]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.08.11-05.10.53:805][234]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.08.11-05.10.53:805][234]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.08.11-05.10.53:835][234]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:836][234]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.08.11-05.10.53:839][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:839][234]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.08.11-05.10.53:841][234]LogWorld: UWorld::CleanupWorld for WildWestVillage, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:841][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:872][234]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.08.11-05.10.53:872][234]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.08.11-05.10.53:873][234]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.08.11-05.10.53:888][234]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:890][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:894][234]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:894][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:897][234]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:897][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:901][234]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:901][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:904][234]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:904][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:907][234]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:907][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:911][234]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:911][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:914][234]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:914][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:917][234]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:917][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:920][234]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:920][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:923][234]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:923][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:926][234]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:927][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:930][234]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:930][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:933][234]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:934][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:937][234]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:937][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:940][234]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:940][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:943][234]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:943][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:946][234]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:946][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:949][234]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:949][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:952][234]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:952][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:955][234]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:955][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:958][234]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:958][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:960][234]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:960][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:964][234]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:964][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:966][234]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:966][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:969][234]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:970][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:973][234]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-05.10.53:973][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-05.10.53:976][234]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.08.11-05.10.53:976][234]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.08.11-05.10.53:980][234]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.08.11-05.10.54:456][234]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.08.11-05.10.54:456][234]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.08.11-05.10.54:456][234]LogAudio: Display: Audio Device unregistered from world 'Lvl_FirstPerson'.
+[2025.08.11-05.10.54:456][234]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.08.11-05.10.54:456][234]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.08.11-05.10.54:458][234]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.08.11-05.10.54:465][234]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.08.11-05.10.54:466][234]LogAudio: Display: Audio Device Manager Shutdown
+[2025.08.11-05.10.54:466][234]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.08.11-05.10.54:468][234]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.08.11-05.10.54:469][234]LogExit: Preparing to exit.
+[2025.08.11-05.10.54:535][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.08.11-05.10.54:543][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:543][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.54:544][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.11-05.10.55:564][234]LogEditorDataStorage: Deinitializing
+[2025.08.11-05.10.55:709][234]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.08.11-05.10.55:737][234]LogExit: Editor shut down
+[2025.08.11-05.10.55:741][234]LogExit: Transaction tracking system shut down
+[2025.08.11-05.10.56:079][234]LogExit: Object subsystem successfully closed.
+[2025.08.11-05.10.56:184][234]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.08.11-05.10.56:252][234]LogMemoryProfiler: Shutdown
+[2025.08.11-05.10.56:252][234]LogNetworkingProfiler: Shutdown
+[2025.08.11-05.10.56:252][234]LoadingProfiler: Shutdown
+[2025.08.11-05.10.56:252][234]LogTimingProfiler: Shutdown
+[2025.08.11-05.10.56:252][234]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.08.11-05.10.56:252][234]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.08.11-05.10.56:643][234]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.08.11-05.10.56:643][234]RenderDocPlugin: plugin has been unloaded.
+[2025.08.11-05.10.56:677][234]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.08.11-05.10.56:677][234]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB5C99F75-4640-6C21-1D3D-5B8B502D8906%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.0-43139311%2B%2B%2BUE5%2BRelease-5.6&UserID=ac06f8b74dc94222b911dea6565b4ec4%7Cfefdaf46fe4f4a72a2749cf532c8ad5d%7C9c0f7a78-3286-42bb-8716-9bf1e060e59e&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.08.11-05.10.57:239][234]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.08.11-05.10.57:243][234]LogNFORDenoise: NFORDenoise function shutting down
+[2025.08.11-05.10.57:243][234]LogXGEController: Cleaning working directory: C:/Users/aeake/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.08.11-05.10.57:247][234]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.08.11-05.10.57:247][234]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.08.11-05.10.57:247][234]LogPakFile: Destroying PakPlatformFile
+[2025.08.11-05.10.57:684][234]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.08.11-05.10.57:720][234]LogExit: Exiting.
+[2025.08.11-05.10.57:751][234]Log file closed, 08/10/25 22:10:57
