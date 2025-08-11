@@ -89,9 +89,6 @@ https://github.com/anthraxxed
 Eaker Tyler – Virus AI logic and animations, elevator movement and interaction Week 3
 https://github.com/Xeleonn
 
-Dean Brandon – Sound design, bug testing, and final game polish Week 5
-https://github.com/BDean353
-
 
 
 
@@ -141,12 +138,12 @@ Test Item				Description						Status
 -  Elevator Logic			All elevators work correctly				[✅] Pass / [ ] Fail
 -  Jump Pads				All pads work as expected				[✅] Pass / [ ] Fail
 -  Teleporters				Each pair links correctly				[✅] Pass / [ ] Fail
--  Pickups				All pickups are functional and give correct effect	[ ] Pass / [ ] Fail
+-  Pickups				All pickups are functional and give correct effect	[✅] Pass / [ ] Fail
 -  Spawn System				Player respawns correctly after death			[✅] Pass / [ ] Fail
 -  Navigation				Player can reach all required areas			[✅] Pass / [ ] Fail
 -  Audio Feedback			Key systems have placeholder audio			[✅] Pass / [ ] Fail
 -  UI Elements				UI is readable and responsive				[✅] Pass / [ ] Fail
--  Full Playthrough			Game can be completed start to finish			[ ] Pass / [ ] Fail
+-  Full Playthrough			Game can be completed start to finish			[✅] Pass / [ ] Fail
 </pre>
 ## 🔄 Updating the QA Plan
 
