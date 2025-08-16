@@ -89,9 +89,6 @@ https://github.com/anthraxxed
 Eaker Tyler – Virus AI logic and animations, elevator movement and interaction Week 3
 https://github.com/Xeleonn
 
-Dean Brandon – Sound design, bug testing, and final game polish Week 5
-https://github.com/BDean353
-
 
 
 
